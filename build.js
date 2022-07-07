@@ -1,10 +1,14 @@
 const path = require('path')
-const simple = require('simple-icons')
-const pascalCase = require('pascal-case')
 const writtenNumber = require('written-number');
 const fs = require('fs-extra')
-
+const simple = require('simple-icons/icons')
+const {pascalCase} = require("pascal-case");
 const componentTemplate = (name, svg) => `
+<template>
+    ${svg.replace(/<svg([^>]+)>/, '<svg>')}
+</template>
+<script>
+
 export default {
   name: '${name}',
 
@@ -18,19 +22,15 @@ export default {
 
   functional: true,
 
-  render(h, ctx) {
-    const size = ctx.props.size.slice(-1) === 'x'
-      ? ctx.props.size.slice(0, ctx.props.size.length -1) + 'em'
-      : parseInt(ctx.props.size) + 'px';
+  setup(props ,ctx) {
+    const size = props.size.slice(-1) === 'x'
+      ? props.size.slice(0, props.size.length -1) + 'em'
+      : parseInt(props.size) + 'px';
 
-    const attrs = ctx.data.attrs || {}
-    attrs.width = attrs.width || size
-    attrs.height = attrs.height || size
-    ctx.data.attrs = attrs
-
-    return ${svg.replace(/<svg([^>]+)>/, '<svg$1 {...ctx.data}>')}
+    return {}
   }
 }
+</script>
 `.trim()
 
 function handleNumbers(title){
@@ -44,21 +44,21 @@ function handleNumbers(title){
   title = title.normalize("NFD").replace(/[\u0300-\u036f]/g, "")
   return title
 }
-
 const icons = Object.entries(simple).map(([key, value]) => ({
+
   key,
-  pascalCasedComponentName: pascalCase(`${handleNumbers(value.title)}-icon`)
+  pascalCasedComponentName: pascalCase(`${handleNumbers(key.substring(2, key.length))}-icon`)
 }))
 
 Promise.all(icons.map(icon => {
   const svg = simple[icon.key].svg
   const component = componentTemplate(icon.pascalCasedComponentName, svg)
-  const filepath = `./src/components/${icon.pascalCasedComponentName}.js`
+  const filepath = `./src/components/${icon.pascalCasedComponentName}.vue`
   return fs.ensureDir(path.dirname(filepath))
     .then(() => fs.writeFile(filepath, component, 'utf8'))
 })).then(() => {
   const main = icons
-    .map(icon => `export { default as ${icon.pascalCasedComponentName} } from '../icons/${icon.pascalCasedComponentName}'`)
+    .map(icon => `export { default as ${icon.pascalCasedComponentName} } from './components/${icon.pascalCasedComponentName}.vue'`)
     .join('\n\n')
   return fs.outputFile('./src/index.js', main, 'utf8')
-})
+});
