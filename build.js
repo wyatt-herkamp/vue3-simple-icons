@@ -5,7 +5,7 @@ const simple = require('simple-icons/icons')
 const {pascalCase} = require("pascal-case");
 const componentTemplate = (name, svg) => `
 <template>
-    ${svg.replace(/<svg([^>]+)>/, '<svg>')}
+    ${svg.replace(/<svg([^>]+)>/, '<svg :width="size" :height="size" role="img" viewBox="0 0 24 24" v-bind="$attrs" >')}
 </template>
 <script>
 
@@ -22,12 +22,12 @@ export default {
 
   functional: true,
 
-  setup(props ,ctx) {
+  setup(props) {
     const size = props.size.slice(-1) === 'x'
       ? props.size.slice(0, props.size.length -1) + 'em'
       : parseInt(props.size) + 'px';
 
-    return {}
+    return {size}
   }
 }
 </script>
@@ -58,7 +58,9 @@ Promise.all(icons.map(icon => {
     .then(() => fs.writeFile(filepath, component, 'utf8'))
 })).then(() => {
   const main = icons
-    .map(icon => `export { default as ${icon.pascalCasedComponentName} } from './components/${icon.pascalCasedComponentName}.vue'`)
-    .join('\n\n')
-  return fs.outputFile('./src/index.js', main, 'utf8')
+    .map(icon => `import ${icon.pascalCasedComponentName} from './components/${icon.pascalCasedComponentName}.vue'`)
+    .join('\n\n');
+  const ex = "export {" + icons.map(icon => icon.pascalCasedComponentName).join(', ') + "}"
+  const final = main + '\n\n' + ex;
+  return fs.outputFile('./src/main.js', final, 'utf8')
 });
