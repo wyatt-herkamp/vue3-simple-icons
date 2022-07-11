@@ -1,6 +1,6 @@
 {
   "name": "vue3-simple-icons",
-  "version": "7.4.0",
+  "version": "7.4.0-beta.1",
   "homepage": "https://vue3-simple-icons.wyatt-herkamp.dev",
   "description": "Simple Icons as Vue components.",
   "repository": {
@@ -28,12 +28,9 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@rollup/plugin-dynamic-import-vars": "^1.4.3",
-    "@vitejs/plugin-vue": "^2.3.3",
-    "vue": "^3.2.37"
+    "vue": "^3.0.0"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^2.3.3",
     "@vue/compiler-sfc": "^3.2.37",
     "fs-extra": "^10.1.0",
     "marked": "^4.0.18",
@@ -42,6 +39,8 @@
     "typeface-nunito": "^1.1.13",
     "vite": "^2.9.14",
     "vue": "^3.2.37",
-    "written-number": "^0.11.1"
+    "written-number": "^0.11.1",
+    "@rollup/plugin-dynamic-import-vars": "^1.4.3",
+    "@vitejs/plugin-vue": "^2.3.3"
   }
 }

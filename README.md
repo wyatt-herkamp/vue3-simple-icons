@@ -1,20 +1,20 @@
-# vue-simple-icons
+# vue3-simple-icons
 
 [Simple Icons](https://simpleicons.org/) as Vue components.
 
 ## Install
 
 ```bash
-yarn add vue-simple-icons
+npm install vue3-simple-icons
 ```
 
 ## Usage
 
 ```js
-import { FacebookIcon, TwitterIcon, ... } from 'vue-simple-icons'
+import { FacebookIcon, TwitterIcon } from 'vue3-simple-icons'
 ```
 
-See all icons and usage here: https://vue-simple-icons.mainvest.com
+See all icons and usage here: https://vue3-simple-icons.wyatt-herkamp.dev/
 
 ### Sizing
 
@@ -38,5 +38,6 @@ You can also set a `px` size directly by passing an integer
 * Versioning follows the [Simple Icons](https://github.com/simple-icons/simple-icons) package.
 
 ## Credit
+Forked from [mainvest/vue3-simple-icons](https://github.com/mainvest/vue-simple-icons)
 
 Based on [**vue-feather-icons**](https://github.com/egoist/vue-feather-icons) by [egoist](https://github.com/egoist)
