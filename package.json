@@ -28,12 +28,13 @@
   },
   "license": "MIT",
   "dependencies": {
+    "@rollup/plugin-dynamic-import-vars": "^1.4.3",
     "@vitejs/plugin-vue": "^2.3.3",
     "vue": "^3.2.37"
   },
   "devDependencies": {
-    "@vue/compiler-sfc": "^3.2.37",
     "@vitejs/plugin-vue": "^2.3.3",
+    "@vue/compiler-sfc": "^3.2.37",
     "fs-extra": "^10.1.0",
     "marked": "^4.0.18",
     "pascal-case": "^3.1.2",
