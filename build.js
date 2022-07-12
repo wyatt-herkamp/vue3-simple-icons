@@ -7,29 +7,23 @@ const componentTemplate = (name, svg) => `
 <template>
     ${svg.replace(/<svg([^>]+)>/, '<svg :width="size" :height="size" role="img" viewBox="0 0 24 24" v-bind="$attrs" >')}
 </template>
-<script>
-
-export default {
+<script lang="ts">
+import {  defineComponent } from "vue";
+export default defineComponent({
   name: '${name}',
-
   props: {
     size: {
       type: String,
-      default: '24',
-      validator: (s) => (!isNaN(s) || s.length >= 2 && !isNaN(s.slice(0, s.length -1)) && s.slice(-1) === 'x' )
+      default: '24'
     }
   },
-
-  functional: true,
-
   setup(props) {
     const size = props.size.slice(-1) === 'x'
       ? props.size.slice(0, props.size.length -1) + 'em'
       : parseInt(props.size) + 'px';
-
     return {size}
   }
-}
+});
 </script>
 `.trim()
 
@@ -58,9 +52,9 @@ Promise.all(icons.map(icon => {
     .then(() => fs.writeFile(filepath, component, 'utf8'))
 })).then(() => {
   const main = icons
-    .map(icon => `import ${icon.pascalCasedComponentName} from './components/${icon.pascalCasedComponentName}.vue'`)
+    .map(icon => `import ${icon.pascalCasedComponentName} from '@/components/${icon.pascalCasedComponentName}.vue'`)
     .join('\n\n');
   const ex = "export {" + icons.map(icon => icon.pascalCasedComponentName).join(', ') + "}"
   const final = main + '\n\n' + ex;
-  return fs.outputFile('./src/main.js', final, 'utf8')
+  return fs.outputFile('./src/main.ts', final, 'utf8')
 });
