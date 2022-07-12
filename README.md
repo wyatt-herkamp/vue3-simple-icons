@@ -1,4 +1,4 @@
-# vue3-simple-icons
+# vue3-simple-icons [![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-vue.svg)](https://forthebadge.com) [![npm version](https://badge.fury.io/js/vue3-simple-icons.svg)](https://badge.fury.io/js/vue3-simple-icons)
 
 [Simple Icons](https://simpleicons.org/) as Vue components.
 
@@ -11,27 +11,22 @@ npm install vue3-simple-icons
 ## Usage
 
 ```js
-import { FacebookIcon, TwitterIcon } from 'vue3-simple-icons'
+import { ApachemavenIcon, NpmIcon } from 'vue3-simple-icons'
 ```
 
 See all icons and usage here: https://vue3-simple-icons.wyatt-herkamp.dev/
 
-### Sizing
-
-By default, icons will be sized based on the font size of the parent element.
-
-You can set a custom size using the `size` attribute.
-For multiple based sizing, pass the desired multiple followed by an `x`.
 
 ```html
-<facebook-icon size="1.5x" class="custom-class"></facebook-icon>
+<ApachemavenIcon style="fill: white"/>
 ```
 
 You can also set a `px` size directly by passing an integer
 
 ```html
-<facebook-icon size="25" class="custom-class"></facebook-icon>
+<NpmIcon style="fill: white" size="24px" />
 ```
+
 
 ## Note
 * Because [identifiers can’t start with numeric literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Identifier_after_number), names beginning with numbers have them converted to English words. For example, the logo for 500px is available as `FiveHundredPxIcon`.
