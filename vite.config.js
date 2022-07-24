@@ -8,7 +8,7 @@ module.exports = defineConfig({
   plugins: [vue()],
   resolve: {
     alias: {
-      '@/': new URL('./src/', import.meta.url).pathname,
+      '@/': `${path.resolve(__dirname, "src")}/`,
     },
   },
   build: {
