@@ -1,6 +1,6 @@
 {
   "name": "vue3-simple-icons",
-  "version": "7.5.0-beta.1",
+  "version": "7.8.0-beta.1",
   "homepage": "https://vue3-simple-icons.wyatt-herkamp.dev",
   "description": "Simple Icons as Vue components.",
   "repository": {
@@ -31,17 +31,17 @@
   },
   "devDependencies": {
     "typescript": "^4.7.4",
-    "@vitejs/plugin-vue": "^3.0.1",
+    "@vitejs/plugin-vue": "^3.0.3",
     "@vue/compiler-sfc": "^3.2.37",
     "fs-extra": "^10.1.0",
-    "marked": "^4.0.18",
+    "marked": "^4.0.19",
     "pascal-case": "^3.1.2",
-    "simple-icons": "^7.5.0",
+    "simple-icons": "^7.8.0",
     "tslib": "^2.4.0",
     "typeface-nunito": "^1.1.13",
-    "vite": "^3.0.2",
+    "vite": "^3.0.9",
     "vue": "^3.2.37",
     "written-number": "^0.11.1",
-    "vue-tsc": "^0.39.0"
+    "vue-tsc": "^0.40.1"
   }
 }
