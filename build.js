@@ -18,6 +18,9 @@ export default defineComponent({
     }
   },
   setup(props) {
+    if (props.size === undefined){
+      return { size: '24' }
+    }
     const size = props.size.slice(-1) === 'x'
       ? props.size.slice(0, props.size.length -1) + 'em'
       : parseInt(props.size) + 'px';
