@@ -1,0 +1,21 @@
+{
+  "name": "@vue3-simple-icons/buildtools",
+  "description": "An example app created with Deno",
+  "type": "module",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "deno run --allow-all src/main.ts --target test",
+    "build": "deno run --allow-all src/main.ts --target ../src",
+    "format": "deno run -A npm:@biomejs/biome format src --write",
+    "lint": "deno run -A npm:@biomejs/biome lint src",
+    "check": "deno run -A npm:@biomejs/biome check --apply src"
+  },
+  "dependencies": {
+    "change-case": "^5.3.0",
+    "n2words": "^1.18.0",
+    "simple-icons": "^10.4.0"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.4.1"
+  }
+}

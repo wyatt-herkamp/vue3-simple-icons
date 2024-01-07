@@ -27,7 +27,7 @@
     "declaration": true
   },
   "include": [
-    "src/main.ts",
+    "src/index.ts",
     "src/components/*.vue",
   ],
   "exclude": [
