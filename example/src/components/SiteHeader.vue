@@ -13,7 +13,9 @@
     </div>
   </header>
 </template>
-<script></script>
+<script lang="ts" setup>
+import GithubIcon from "vue3-simple-icons"
+</script>
 
 <style scoped lang="scss">
 .header {

@@ -2,7 +2,11 @@
 
   <div class="icon" @click="copyToClipboard">
     <component :is="iconComponent" class="icon-svg"></component>
-    <span>{{ icon }}</span>
+    <div class="iconInfo">
+      <span>Name: {{ icon.originalTitle }}</span>
+      <span>Component: {{ icon.componentName }}</span>
+      <span>Original Slug: {{ icon.slug }}</span>
+    </div>
   </div>
 </template>
 
@@ -10,22 +14,27 @@
 import { computed, defineProps } from 'vue'
 import * as icons from 'vue3-simple-icons'
 import { useNotification } from '@kyvg/vue3-notification'
+import type { PropType } from 'vue';
 
 const { notify } = useNotification()
 
 const props = defineProps({
   icon: {
-    type: String,
+    type: Object as PropType<{
+        originalTitle: string;
+      componentName: string;
+      slug: string;
+    }>,
     required: true
   }
 })
-const iconComponent = computed(() => icons[props.icon])
+const iconComponent = computed(() => icons[props.icon.componentName])
 function copyToClipboard() {
-    navigator.clipboard.writeText(props.icon);
+    navigator.clipboard.writeText(props.icon.componentName);
     console.log(props.icon)
     notify({
     title: "Copied to clipboard!",
-    text: `${props.icon} copied to clipboard!`,
+    text: `${props.icon.componentName} copied to clipboard!`,
   });
 }
 </script>
@@ -46,6 +55,11 @@ function copyToClipboard() {
 
 .icon:hover {
   background: #f1f5ff;
+}
+.iconInfo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .icon-svg {

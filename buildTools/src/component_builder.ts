@@ -16,7 +16,16 @@ ${componentScript}`;
 
   return result;
 }
+const TITLE_TO_SLUG_REPLACEMENTS_UPPER_CASE: Record<string, string> = {
+  "&": "And",
+  "+": "Plus",
+  ".": "Dot",
+};
 
+const TITLE_TO_SLUG_REPLACEMENTS_UPPER_CASE_REGEX = RegExp(
+  `[${Object.keys(TITLE_TO_SLUG_REPLACEMENTS_UPPER_CASE).join("")}]`,
+  "g"
+);
 /**
  * If Brand.title is all AlphaNumeric characters and spaces convert to PascalCase
  * If Brand.Title is not use Brand slug
@@ -25,13 +34,17 @@ ${componentScript}`;
  *
  */
 export function getComponentName(icon: Brand): string {
-  if (icon.title.match(/^[a-zA-Z ]+$/)) {
+  const iconToTest = icon.title.replace(
+    TITLE_TO_SLUG_REPLACEMENTS_UPPER_CASE_REGEX,
+    (char) => TITLE_TO_SLUG_REPLACEMENTS_UPPER_CASE[char]
+  );
+  if (iconToTest.match(/^[a-zA-Z ]+$/)) {
     if (icon.slug) {
       const slug = changeCase.pascalCase(icon.slug);
       console.info("Using slug for component name", slug);
       return `${slug}Icon`;
     }
-    const name = changeCase.pascalCase(icon.title);
+    const name = changeCase.pascalCase(iconToTest);
     return `${name}Icon`;
   }
   let title = getIconSlug(icon);

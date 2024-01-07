@@ -16,16 +16,20 @@ await new Command()
 	.option("--simple-icons [simpleIcons:file]", "Path to simple-icons", {
 		default: "node_modules/simple-icons",
 	})
-	.action(async ({ target, simpleIcons }) => {
+  .option("--component-json [componentJson:file]", "Path to component.json", {
+    default: "component.json",
+  })
+	.action(async ({ target, simpleIcons, componentJson }) => {
 		const source = !simpleIcons
 			? "node_modules/simple-icons"
 			: (simpleIcons as string);
 		const finalTarget = !target ? "test" : (target as string);
-		await buildIcons(finalTarget, source);
+    const jsonOutput = !componentJson ? "component.json" : (componentJson as string);
+		await buildIcons(finalTarget, source, jsonOutput);
 	})
 	.parse(Deno.args);
 
-async function buildIcons(targetFolder: string, sourceFolder: string) {
+async function buildIcons(targetFolder: string, sourceFolder: string, componentJson: string) {
 	console.log(
 		`Building vue3-simple-icons with simple-icons ${simpleIconsVersion} to ${targetFolder}...`,
 	);
@@ -81,6 +85,8 @@ async function buildIcons(targetFolder: string, sourceFolder: string) {
 		components.push(component);
 	}
 	await buildIndex(components, targetFolder);
+
+  await Deno.writeTextFile(componentJson, JSON.stringify(components, null, 2));
 	console.log("Done");
 }
 
@@ -101,9 +107,7 @@ async function buildIndex(
   `;
 	let exports = "";
 	for (const component of components) {
-		index +=
-    `// ${component.originalTitle} component generated from ${component.slug}.svg
-    import ${component.componentName} from "./components/${component.componentName}.vue";`;
+		index +=`import ${component.componentName} from "./components/${component.componentName}.vue"; // ${component.originalTitle} component generated from ${component.slug}.svg\n`;
 		exports += `\t\t${component.componentName},\n`;
 	}
 

@@ -11,7 +11,7 @@
         />
       </div>
       <div class="icons">
-        <IconElement v-for="icon in filteredIcons" :key="icon" :icon="icon" />
+        <IconElement v-for="icon in filteredIcons" :key="icon.componentName" :icon="icon" />
       </div>
     </div>
   </div>
@@ -21,19 +21,25 @@
 
 <script lang="ts" setup>
 import { ref, computed } from 'vue'
-import * as icons from 'vue3-simple-icons'
 import SiteHeader from '@/components/SiteHeader.vue'
 import IconElement from '@/components/IconElement.vue'
+import componentInfo from "@/../../components.json"
+interface ComponentInfo{
+  originalTitle: string;
+  componentName: string;
+  slug: string;
+}
+const components: Array<ComponentInfo> = componentInfo;
 const keyword = ref('')
 const filteredIcons = computed(() => {
   const keywordValue = keyword.value.trim().toLowerCase()
-  if (!keywordValue) return Object.keys(icons)
+  if (!keywordValue) return components
 
-  return Object.keys(icons).filter((name) => {
-    return name.toLowerCase().indexOf(keywordValue) > -1
+  return components.filter((component) => {
+    return component.componentName.toLowerCase().indexOf(keywordValue) > -1
   })
 })
-const numberOfIcons = computed(() => Object.keys(icons).length)
+const numberOfIcons = computed(() => components.length)
 </script>
 
 <style scoped lang="scss">
