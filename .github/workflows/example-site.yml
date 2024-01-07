@@ -21,19 +21,22 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Use Node.js ${{ matrix.node-version }}
+      - name: Use Node.js 20.x
         uses: actions/setup-node@v3
         with:
-          node-version: '20.x'
+          node-version: "20.x"
+      - uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
       - name: Build Main Library
-        run: npm install && npm run build
+        run: npm install && npm install --prefix buildTools && npm run build
       - name: Build Website
         working-directory: example
         run: npm install && npm run build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path:  "example/dist/"
+          path: "example/dist/"
   # Deployment job
   deploy:
     environment:
