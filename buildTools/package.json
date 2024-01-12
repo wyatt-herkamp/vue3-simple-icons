@@ -4,8 +4,8 @@
   "type": "module",
   "version": "0.0.0",
   "scripts": {
-    "dev": "deno run --allow-all src/main.ts --target test --component-json test.components.json",
-    "build": "deno run --allow-all src/main.ts --target ../src --component-json ../components.json",
+    "dev": "deno run --allow-all src/main.ts --target test --info-json test.simple-icons.json",
+    "build": "deno run --allow-all src/main.ts --target ../src --info-json ../simple-icons.json",
     "format": "deno run -A npm:@biomejs/biome format src --write",
     "lint": "deno run -A npm:@biomejs/biome lint src",
     "check": "deno run -A npm:@biomejs/biome check --apply src"

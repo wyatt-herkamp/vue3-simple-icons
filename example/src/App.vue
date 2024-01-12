@@ -23,13 +23,13 @@
 import { ref, computed } from 'vue'
 import SiteHeader from '@/components/SiteHeader.vue'
 import IconElement from '@/components/IconElement.vue'
-import componentInfo from "@/../../components.json"
+import info from "@/../../simple-icons.json"
 interface ComponentInfo{
   originalTitle: string;
   componentName: string;
   slug: string;
 }
-const components: Array<ComponentInfo> = componentInfo;
+const components: Array<ComponentInfo> = info.components;
 const keyword = ref('')
 const filteredIcons = computed(() => {
   const keywordValue = keyword.value.trim().toLowerCase()

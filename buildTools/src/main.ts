@@ -16,15 +16,15 @@ await new Command()
 	.option("--simple-icons [simpleIcons:file]", "Path to simple-icons", {
 		default: "node_modules/simple-icons",
 	})
-  .option("--component-json [componentJson:file]", "Path to component.json", {
-    default: "component.json",
+  .option("--info-json [infoJson:file]", "Path to infoJson.json", {
+    default: "simple-icons.json",
   })
-	.action(async ({ target, simpleIcons, componentJson }) => {
+	.action(async ({ target, simpleIcons, infoJson }) => {
 		const source = !simpleIcons
 			? "node_modules/simple-icons"
 			: (simpleIcons as string);
 		const finalTarget = !target ? "test" : (target as string);
-    const jsonOutput = !componentJson ? "component.json" : (componentJson as string);
+    const jsonOutput = !infoJson ? "simple-icons.json" : (infoJson as string);
 		await buildIcons(finalTarget, source, jsonOutput);
 	})
 	.parse(Deno.args);
@@ -85,11 +85,19 @@ async function buildIcons(targetFolder: string, sourceFolder: string, componentJ
 		components.push(component);
 	}
 	await buildIndex(components, targetFolder);
-
-  await Deno.writeTextFile(componentJson, JSON.stringify(components, null, 2));
+  const info: SimpleIconsInfoFile = {
+    builtOn: new Date(),
+    simpleIconsVersion: simpleIconsVersion,
+    components,
+  };
+  await Deno.writeTextFile(componentJson, JSON.stringify(info, null, 2));
 	console.log("Done");
 }
-
+interface SimpleIconsInfoFile{
+  builtOn: Date;
+  simpleIconsVersion: string;
+  components: Component[];
+}
 interface Component {
 	originalTitle: string;
 	componentName: string;
