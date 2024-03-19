@@ -1,6 +1,6 @@
 {
-  "builtOn": "2024-01-12T15:46:12.037Z",
-  "simpleIconsVersion": "11.0.0",
+  "builtOn": "2024-03-19T11:26:59.126Z",
+  "simpleIconsVersion": "11.9.0",
   "components": [
     {
       "originalTitle": ".ENV",
@@ -28,6 +28,16 @@
       "slug": "1password"
     },
     {
+      "originalTitle": "2K",
+      "componentName": "TwoKIcon",
+      "slug": "2k"
+    },
+    {
+      "originalTitle": "365 Data Science",
+      "componentName": "ThreeHundredSixtyFiveDatascienceIcon",
+      "slug": "365datascience"
+    },
+    {
       "originalTitle": "3M",
       "componentName": "ThreeMIcon",
       "slug": "3m"
@@ -51,6 +61,11 @@
       "originalTitle": "500px",
       "componentName": "FiveHundredPxIcon",
       "slug": "500px"
+    },
+    {
+      "originalTitle": "7Zip",
+      "componentName": "SevenZipIcon",
+      "slug": "7zip"
     },
     {
       "originalTitle": "99designs",
@@ -131,6 +146,11 @@
       "originalTitle": "ActivityPub",
       "componentName": "ActivityPubIcon",
       "slug": "activitypub"
+    },
+    {
+      "originalTitle": "Actix",
+      "componentName": "ActixIcon",
+      "slug": "actix"
     },
     {
       "originalTitle": "Acura",
@@ -363,6 +383,11 @@
       "slug": "airindia"
     },
     {
+      "originalTitle": "Air Transat",
+      "componentName": "AirTransatIcon",
+      "slug": "airtransat"
+    },
+    {
       "originalTitle": "AirAsia",
       "componentName": "AirAsiaIcon",
       "slug": "airasia"
@@ -426,6 +451,11 @@
       "originalTitle": "Akaunting",
       "componentName": "AkauntingIcon",
       "slug": "akaunting"
+    },
+    {
+      "originalTitle": "Akiflow",
+      "componentName": "AkiflowIcon",
+      "slug": "akiflow"
     },
     {
       "originalTitle": "Alacritty",
@@ -556,6 +586,11 @@
       "originalTitle": "Alwaysdata",
       "componentName": "AlwaysdataIcon",
       "slug": "alwaysdata"
+    },
+    {
+      "originalTitle": "ALX",
+      "componentName": "AlxIcon",
+      "slug": "alx"
     },
     {
       "originalTitle": "Amazon",
@@ -758,6 +793,16 @@
       "slug": "anilist"
     },
     {
+      "originalTitle": "Animal Planet",
+      "componentName": "AnimalPlanetIcon",
+      "slug": "animalplanet"
+    },
+    {
+      "originalTitle": "AnkerMake",
+      "componentName": "AnkerMakeIcon",
+      "slug": "ankermake"
+    },
+    {
       "originalTitle": "Ansible",
       "componentName": "AnsibleIcon",
       "slug": "ansible"
@@ -786,6 +831,11 @@
       "originalTitle": "Antena 3",
       "componentName": "Antena3Icon",
       "slug": "antena3"
+    },
+    {
+      "originalTitle": "Anycubic",
+      "componentName": "AnycubicIcon",
+      "slug": "anycubic"
     },
     {
       "originalTitle": "AnyDesk",
@@ -846,6 +896,11 @@
       "originalTitle": "Apache Flink",
       "componentName": "ApacheFlinkIcon",
       "slug": "apacheflink"
+    },
+    {
+      "originalTitle": "Apache FreeMarker",
+      "componentName": "ApacheFreeMarkerIcon",
+      "slug": "apachefreemarker"
     },
     {
       "originalTitle": "Apache Groovy",
@@ -966,6 +1021,11 @@
       "originalTitle": "Appian",
       "componentName": "AppianIcon",
       "slug": "appian"
+    },
+    {
+      "originalTitle": "Appium",
+      "componentName": "AppiumIcon",
+      "slug": "appium"
     },
     {
       "originalTitle": "Apple",
@@ -1133,6 +1193,11 @@
       "slug": "arxiv"
     },
     {
+      "originalTitle": "Asahi Linux",
+      "componentName": "AsahiLinuxIcon",
+      "slug": "asahilinux"
+    },
+    {
       "originalTitle": "Asana",
       "componentName": "AsanaIcon",
       "slug": "asana"
@@ -1293,6 +1358,11 @@
       "slug": "autoprefixer"
     },
     {
+      "originalTitle": "AutoZone",
+      "componentName": "AutoZoneIcon",
+      "slug": "autozone"
+    },
+    {
       "originalTitle": "avajs",
       "componentName": "AvajsIcon",
       "slug": "avajs"
@@ -1381,6 +1451,11 @@
       "originalTitle": "Babel",
       "componentName": "BabelIcon",
       "slug": "babel"
+    },
+    {
+      "originalTitle": "Babelio",
+      "componentName": "BabelioIcon",
+      "slug": "babelio"
     },
     {
       "originalTitle": "Backblaze",
@@ -1483,6 +1558,11 @@
       "slug": "battledotnet"
     },
     {
+      "originalTitle": "Bazel",
+      "componentName": "BazelIcon",
+      "slug": "bazel"
+    },
+    {
       "originalTitle": "Beatport",
       "componentName": "BeatportIcon",
       "slug": "beatport"
@@ -1523,6 +1603,11 @@
       "slug": "bento"
     },
     {
+      "originalTitle": "BentoBox",
+      "componentName": "BentoBoxIcon",
+      "slug": "bentobox"
+    },
+    {
       "originalTitle": "BentoML",
       "componentName": "BentoMlIcon",
       "slug": "bentoml"
@@ -1536,6 +1621,11 @@
       "originalTitle": "Betfair",
       "componentName": "BetfairIcon",
       "slug": "betfair"
+    },
+    {
+      "originalTitle": "Better Stack",
+      "componentName": "BetterStackIcon",
+      "slug": "betterstack"
     },
     {
       "originalTitle": "Bevy",
@@ -1713,6 +1803,11 @@
       "slug": "bluesky"
     },
     {
+      "originalTitle": "Bluesound",
+      "componentName": "BluesoundIcon",
+      "slug": "bluesound"
+    },
+    {
       "originalTitle": "Bluetooth",
       "componentName": "BluetoothIcon",
       "slug": "bluetooth"
@@ -1736,6 +1831,11 @@
       "originalTitle": "BoardGameGeek",
       "componentName": "BoardGameGeekIcon",
       "slug": "boardgamegeek"
+    },
+    {
+      "originalTitle": "boAt",
+      "componentName": "BoAtIcon",
+      "slug": "boat"
     },
     {
       "originalTitle": "Boehringer Ingelheim",
@@ -1838,6 +1938,11 @@
       "slug": "boxysvg"
     },
     {
+      "originalTitle": "Braintree",
+      "componentName": "BraintreeIcon",
+      "slug": "braintree"
+    },
+    {
       "originalTitle": "Brandfolder",
       "componentName": "BrandfolderIcon",
       "slug": "brandfolder"
@@ -1851,6 +1956,11 @@
       "originalTitle": "Breaker",
       "componentName": "BreakerIcon",
       "slug": "breaker"
+    },
+    {
+      "originalTitle": "Brenntag",
+      "componentName": "BrenntagIcon",
+      "slug": "brenntag"
     },
     {
       "originalTitle": "Brevo",
@@ -1948,6 +2058,11 @@
       "slug": "bun"
     },
     {
+      "originalTitle": "Bungie",
+      "componentName": "BungieIcon",
+      "slug": "bungie"
+    },
+    {
       "originalTitle": "bunq",
       "componentName": "BunqIcon",
       "slug": "bunq"
@@ -1958,6 +2073,11 @@
       "slug": "burgerking"
     },
     {
+      "originalTitle": "Burp Suite",
+      "componentName": "BurpSuiteIcon",
+      "slug": "burpsuite"
+    },
+    {
       "originalTitle": "Burton",
       "componentName": "BurtonIcon",
       "slug": "burton"
@@ -1966,6 +2086,11 @@
       "originalTitle": "Buy Me A Coffee",
       "componentName": "BuyMeACoffeeIcon",
       "slug": "buymeacoffee"
+    },
+    {
+      "originalTitle": "BuySellAds",
+      "componentName": "BuySellAdsIcon",
+      "slug": "buysellads"
     },
     {
       "originalTitle": "BuzzFeed",
@@ -2058,6 +2183,11 @@
       "slug": "campaignmonitor"
     },
     {
+      "originalTitle": "Camunda",
+      "componentName": "CamundaIcon",
+      "slug": "camunda"
+    },
+    {
       "originalTitle": "Canonical",
       "componentName": "CanonicalIcon",
       "slug": "canonical"
@@ -2086,6 +2216,11 @@
       "originalTitle": "Cardano",
       "componentName": "CardanoIcon",
       "slug": "cardano"
+    },
+    {
+      "originalTitle": "Carlsberg Group",
+      "componentName": "CarlsbergGroupIcon",
+      "slug": "carlsberggroup"
     },
     {
       "originalTitle": "Carrd",
@@ -2246,6 +2381,11 @@
       "originalTitle": "Chedraui",
       "componentName": "ChedrauiIcon",
       "slug": "chedraui"
+    },
+    {
+      "originalTitle": "Cheerio",
+      "componentName": "CheerioIcon",
+      "slug": "cheerio"
     },
     {
       "originalTitle": "Chef",
@@ -2453,9 +2593,19 @@
       "slug": "cloudflarepages"
     },
     {
+      "originalTitle": "Cloudflare Workers",
+      "componentName": "CloudflareWorkersIcon",
+      "slug": "cloudflareworkers"
+    },
+    {
       "originalTitle": "Cloudinary",
       "componentName": "CloudinaryIcon",
       "slug": "cloudinary"
+    },
+    {
+      "originalTitle": "Cloudron",
+      "componentName": "CloudronIcon",
+      "slug": "cloudron"
     },
     {
       "originalTitle": "Cloudsmith",
@@ -2466,6 +2616,11 @@
       "originalTitle": "Cloudways",
       "componentName": "CloudwaysIcon",
       "slug": "cloudways"
+    },
+    {
+      "originalTitle": "Clubforce",
+      "componentName": "ClubforceIcon",
+      "slug": "clubforce"
     },
     {
       "originalTitle": "Clubhouse",
@@ -2486,6 +2641,11 @@
       "originalTitle": "CNCF",
       "componentName": "CncfIcon",
       "slug": "cncf"
+    },
+    {
+      "originalTitle": "CNET",
+      "componentName": "CnetIcon",
+      "slug": "cnet"
     },
     {
       "originalTitle": "CNN",
@@ -2576,6 +2736,11 @@
       "originalTitle": "Codeforces",
       "componentName": "CodeforcesIcon",
       "slug": "codeforces"
+    },
+    {
+      "originalTitle": "Codefresh",
+      "componentName": "CodefreshIcon",
+      "slug": "codefresh"
     },
     {
       "originalTitle": "CodeIgniter",
@@ -2801,6 +2966,11 @@
       "originalTitle": "Contentstack",
       "componentName": "ContentstackIcon",
       "slug": "contentstack"
+    },
+    {
+      "originalTitle": "Contributor Covenant",
+      "componentName": "ContributorCovenantIcon",
+      "slug": "contributorcovenant"
     },
     {
       "originalTitle": "Conventional Commits",
@@ -3183,6 +3353,11 @@
       "slug": "datto"
     },
     {
+      "originalTitle": "DaVinci Resolve",
+      "componentName": "DaVinciResolveIcon",
+      "slug": "davinciresolve"
+    },
+    {
       "originalTitle": "DAZN",
       "componentName": "DaznIcon",
       "slug": "dazn"
@@ -3226,6 +3401,11 @@
       "originalTitle": "DeepCool",
       "componentName": "DeepCoolIcon",
       "slug": "deepcool"
+    },
+    {
+      "originalTitle": "Deepgram",
+      "componentName": "DeepgramIcon",
+      "slug": "deepgram"
     },
     {
       "originalTitle": "deepin",
@@ -3713,9 +3893,19 @@
       "slug": "eclipsevertdotx"
     },
     {
+      "originalTitle": "Ecovacs",
+      "componentName": "EcovacsIcon",
+      "slug": "ecovacs"
+    },
+    {
       "originalTitle": "EDEKA",
       "componentName": "EdekaIcon",
       "slug": "edeka"
+    },
+    {
+      "originalTitle": "Edge Impulse",
+      "componentName": "EdgeImpulseIcon",
+      "slug": "edgeimpulse"
     },
     {
       "originalTitle": "EditorConfig",
@@ -3741,6 +3931,11 @@
       "originalTitle": "Egnyte",
       "componentName": "EgnyteIcon",
       "slug": "egnyte"
+    },
+    {
+      "originalTitle": "Eight",
+      "componentName": "EightIcon",
+      "slug": "eight"
     },
     {
       "originalTitle": "Eight Sleep",
@@ -3796,6 +3991,11 @@
       "originalTitle": "electron-builder",
       "componentName": "ElectronbuilderIcon",
       "slug": "electronbuilder"
+    },
+    {
+      "originalTitle": "Elegoo",
+      "componentName": "ElegooIcon",
+      "slug": "elegoo"
     },
     {
       "originalTitle": "Element",
@@ -3878,6 +4078,11 @@
       "slug": "empirekred"
     },
     {
+      "originalTitle": "EndeavourOS",
+      "componentName": "EndeavourOsIcon",
+      "slug": "endeavouros"
+    },
+    {
       "originalTitle": "Engadget",
       "componentName": "EngadgetIcon",
       "slug": "engadget"
@@ -3958,6 +4163,11 @@
       "slug": "eslint"
     },
     {
+      "originalTitle": "Esoteric Software",
+      "componentName": "EsotericSoftwareIcon",
+      "slug": "esotericsoftware"
+    },
+    {
       "originalTitle": "ESPHome",
       "componentName": "EspHomeIcon",
       "slug": "esphome"
@@ -4011,6 +4221,11 @@
       "originalTitle": "Evernote",
       "componentName": "EvernoteIcon",
       "slug": "evernote"
+    },
+    {
+      "originalTitle": "Excalidraw",
+      "componentName": "ExcalidrawIcon",
+      "slug": "excalidraw"
     },
     {
       "originalTitle": "Exercism",
@@ -4153,6 +4368,11 @@
       "slug": "fantom"
     },
     {
+      "originalTitle": "Farcaster",
+      "componentName": "FarcasterIcon",
+      "slug": "farcaster"
+    },
+    {
       "originalTitle": "FareHarbor",
       "componentName": "FareHarborIcon",
       "slug": "fareharbor"
@@ -4278,6 +4498,11 @@
       "slug": "fila"
     },
     {
+      "originalTitle": "File.io",
+      "componentName": "FileDotioIcon",
+      "slug": "filedotio"
+    },
+    {
       "originalTitle": "Files",
       "componentName": "FilesIcon",
       "slug": "files"
@@ -4356,6 +4581,11 @@
       "originalTitle": "Fiverr",
       "componentName": "FiverrIcon",
       "slug": "fiverr"
+    },
+    {
+      "originalTitle": "Flashforge",
+      "componentName": "FlashforgeIcon",
+      "slug": "flashforge"
     },
     {
       "originalTitle": "Flask",
@@ -4483,6 +4713,11 @@
       "slug": "fontforge"
     },
     {
+      "originalTitle": "foobar2000",
+      "componentName": "Foobar2000Icon",
+      "slug": "foobar2000"
+    },
+    {
       "originalTitle": "foodpanda",
       "componentName": "FoodpandaIcon",
       "slug": "foodpanda"
@@ -4496,6 +4731,11 @@
       "originalTitle": "Forgejo",
       "componentName": "ForgejoIcon",
       "slug": "forgejo"
+    },
+    {
+      "originalTitle": "Formspree",
+      "componentName": "FormspreeIcon",
+      "slug": "formspree"
     },
     {
       "originalTitle": "Formstack",
@@ -4618,6 +4858,16 @@
       "slug": "frontify"
     },
     {
+      "originalTitle": "Fubo",
+      "componentName": "FuboIcon",
+      "slug": "fubo"
+    },
+    {
+      "originalTitle": "Fueler",
+      "componentName": "FuelerIcon",
+      "slug": "fueler"
+    },
+    {
       "originalTitle": "Fuga Cloud",
       "componentName": "FugaCloudIcon",
       "slug": "fugacloud"
@@ -4688,6 +4938,11 @@
       "slug": "gamebanana"
     },
     {
+      "originalTitle": "Gameloft",
+      "componentName": "GameloftIcon",
+      "slug": "gameloft"
+    },
+    {
       "originalTitle": "Gamemaker",
       "componentName": "GamemakerIcon",
       "slug": "gamemaker"
@@ -4748,6 +5003,11 @@
       "slug": "geocaching"
     },
     {
+      "originalTitle": "GeoPandas",
+      "componentName": "GeoPandasIcon",
+      "slug": "geopandas"
+    },
+    {
       "originalTitle": "Gerrit",
       "componentName": "GerritIcon",
       "slug": "gerrit"
@@ -4801,6 +5061,11 @@
       "originalTitle": "GitBook",
       "componentName": "GitBookIcon",
       "slug": "gitbook"
+    },
+    {
+      "originalTitle": "Gitconnected",
+      "componentName": "GitconnectedIcon",
+      "slug": "gitconnected"
     },
     {
       "originalTitle": "Gitea",
@@ -4866,6 +5131,11 @@
       "originalTitle": "Glassdoor",
       "componentName": "GlassdoorIcon",
       "slug": "glassdoor"
+    },
+    {
+      "originalTitle": "Glide",
+      "componentName": "GlideIcon",
+      "slug": "glide"
     },
     {
       "originalTitle": "Glitch",
@@ -4958,6 +5228,11 @@
       "slug": "gogdotcom"
     },
     {
+      "originalTitle": "Gojek",
+      "componentName": "GojekIcon",
+      "slug": "gojek"
+    },
+    {
       "originalTitle": "GoLand",
       "componentName": "GoLandIcon",
       "slug": "goland"
@@ -5013,6 +5288,11 @@
       "slug": "googleassistant"
     },
     {
+      "originalTitle": "Google Authenticator",
+      "componentName": "GoogleAuthenticatorIcon",
+      "slug": "googleauthenticator"
+    },
+    {
       "originalTitle": "Google Bard",
       "componentName": "GoogleBardIcon",
       "slug": "googlebard"
@@ -5051,6 +5331,11 @@
       "originalTitle": "Google Chrome",
       "componentName": "GoogleChromeIcon",
       "slug": "googlechrome"
+    },
+    {
+      "originalTitle": "Google Chronicle",
+      "componentName": "GoogleChronicleIcon",
+      "slug": "googlechronicle"
     },
     {
       "originalTitle": "Google Classroom",
@@ -5103,6 +5388,11 @@
       "slug": "googledataproc"
     },
     {
+      "originalTitle": "Google Display & Video 360",
+      "componentName": "Googledisplayandvideo360Icon",
+      "slug": "googledisplayandvideo360"
+    },
+    {
       "originalTitle": "Google Docs",
       "componentName": "GoogleDocsIcon",
       "slug": "googledocs"
@@ -5141,6 +5431,11 @@
       "originalTitle": "Google Forms",
       "componentName": "GoogleFormsIcon",
       "slug": "googleforms"
+    },
+    {
+      "originalTitle": "Google Gemini",
+      "componentName": "GoogleGeminiIcon",
+      "slug": "googlegemini"
     },
     {
       "originalTitle": "Google Hangouts",
@@ -5663,6 +5958,11 @@
       "slug": "hetzner"
     },
     {
+      "originalTitle": "Hevy",
+      "componentName": "HevyIcon",
+      "slug": "hevy"
+    },
+    {
       "originalTitle": "Hexlet",
       "componentName": "HexletIcon",
       "slug": "hexlet"
@@ -5711,6 +6011,11 @@
       "originalTitle": "Hive",
       "componentName": "HiveBlockchainIcon",
       "slug": "hive_blockchain"
+    },
+    {
+      "originalTitle": "HiveMQ",
+      "componentName": "HiveMqIcon",
+      "slug": "hivemq"
     },
     {
       "originalTitle": "Home Assistant",
@@ -5823,6 +6128,11 @@
       "slug": "html5"
     },
     {
+      "originalTitle": "htmx",
+      "componentName": "HtmxIcon",
+      "slug": "htmx"
+    },
+    {
       "originalTitle": "htop",
       "componentName": "HtopIcon",
       "slug": "htop"
@@ -5868,6 +6178,11 @@
       "slug": "hyper"
     },
     {
+      "originalTitle": "Hyperskill",
+      "componentName": "HyperskillIcon",
+      "slug": "hyperskill"
+    },
+    {
       "originalTitle": "Hypothesis",
       "componentName": "HypothesisIcon",
       "slug": "hypothesis"
@@ -5896,6 +6211,11 @@
       "originalTitle": "iBeacon",
       "componentName": "IBeaconIcon",
       "slug": "ibeacon"
+    },
+    {
+      "originalTitle": "Iberia",
+      "componentName": "IberiaIcon",
+      "slug": "iberia"
     },
     {
       "originalTitle": "IBM",
@@ -5998,6 +6318,11 @@
       "slug": "igdb"
     },
     {
+      "originalTitle": "IGN",
+      "componentName": "IgnIcon",
+      "slug": "ign"
+    },
+    {
       "originalTitle": "iHeartRadio",
       "componentName": "IHeartRadioIcon",
       "slug": "iheartradio"
@@ -6011,6 +6336,11 @@
       "originalTitle": "Île-de-France Mobilités",
       "componentName": "IledefrancemobilitesIcon",
       "slug": "iledefrancemobilites"
+    },
+    {
+      "originalTitle": "Image.sc",
+      "componentName": "ImageDotscIcon",
+      "slug": "imagedotsc"
     },
     {
       "originalTitle": "ImageJ",
@@ -6051,6 +6381,11 @@
       "originalTitle": "Indeed",
       "componentName": "IndeedIcon",
       "slug": "indeed"
+    },
+    {
+      "originalTitle": "Indie Hackers",
+      "componentName": "IndieHackersIcon",
+      "slug": "indiehackers"
     },
     {
       "originalTitle": "IndiGo",
@@ -6263,6 +6598,11 @@
       "slug": "iris"
     },
     {
+      "originalTitle": "iRobot",
+      "componentName": "IRobotIcon",
+      "slug": "irobot"
+    },
+    {
       "originalTitle": "ISC2",
       "componentName": "Isc2Icon",
       "slug": "isc2"
@@ -6451,6 +6791,11 @@
       "originalTitle": "Jordan",
       "componentName": "JordanIcon",
       "slug": "jordan"
+    },
+    {
+      "originalTitle": "JOUAV",
+      "componentName": "JouavIcon",
+      "slug": "jouav"
     },
     {
       "originalTitle": "Jovian",
@@ -6643,6 +6988,11 @@
       "slug": "kedro"
     },
     {
+      "originalTitle": "Keenetic",
+      "componentName": "KeeneticIcon",
+      "slug": "keenetic"
+    },
+    {
       "originalTitle": "Keep a Changelog",
       "componentName": "KeepAChangelogIcon",
       "slug": "keepachangelog"
@@ -6773,6 +7123,16 @@
       "slug": "knative"
     },
     {
+      "originalTitle": "Knex.js",
+      "componentName": "KnexDotjsIcon",
+      "slug": "knexdotjs"
+    },
+    {
+      "originalTitle": "KNIME",
+      "componentName": "KnimeIcon",
+      "slug": "knime"
+    },
+    {
       "originalTitle": "KnowledgeBase",
       "componentName": "KnowledgeBaseIcon",
       "slug": "knowledgebase"
@@ -6873,9 +7233,19 @@
       "slug": "kubuntu"
     },
     {
+      "originalTitle": "KuCoin",
+      "componentName": "KuCoinIcon",
+      "slug": "kucoin"
+    },
+    {
       "originalTitle": "Kuma",
       "componentName": "KumaIcon",
       "slug": "kuma"
+    },
+    {
+      "originalTitle": "Kununu",
+      "componentName": "KununuIcon",
+      "slug": "kununu"
     },
     {
       "originalTitle": "Kuula",
@@ -6903,7 +7273,7 @@
       "slug": "labview"
     },
     {
-      "originalTitle": "Lada",
+      "originalTitle": "LADA",
       "componentName": "LadaIcon",
       "slug": "lada"
     },
@@ -7068,6 +7438,11 @@
       "slug": "lg"
     },
     {
+      "originalTitle": "Li-Ning",
+      "componentName": "LiningIcon",
+      "slug": "lining"
+    },
+    {
       "originalTitle": "Libera.Chat",
       "componentName": "LiberaDotChatIcon",
       "slug": "liberadotchat"
@@ -7188,9 +7563,19 @@
       "slug": "linkfire"
     },
     {
+      "originalTitle": "Linksys",
+      "componentName": "LinksysIcon",
+      "slug": "linksys"
+    },
+    {
       "originalTitle": "Linktree",
       "componentName": "LinktreeIcon",
       "slug": "linktree"
+    },
+    {
+      "originalTitle": "LintCode",
+      "componentName": "LintCodeIcon",
+      "slug": "lintcode"
     },
     {
       "originalTitle": "Linux",
@@ -7358,6 +7743,16 @@
       "slug": "lubuntu"
     },
     {
+      "originalTitle": "Lucia",
+      "componentName": "LuciaIcon",
+      "slug": "lucia"
+    },
+    {
+      "originalTitle": "Lucid",
+      "componentName": "LucidIcon",
+      "slug": "lucid"
+    },
+    {
       "originalTitle": "Ludwig",
       "componentName": "LudwigIcon",
       "slug": "ludwig"
@@ -7423,6 +7818,11 @@
       "slug": "magento"
     },
     {
+      "originalTitle": "Magic",
+      "componentName": "MagicIcon",
+      "slug": "magic"
+    },
+    {
       "originalTitle": "Magisk",
       "componentName": "MagiskIcon",
       "slug": "magisk"
@@ -7471,6 +7871,11 @@
       "originalTitle": "MakerBot",
       "componentName": "MakerBotIcon",
       "slug": "makerbot"
+    },
+    {
+      "originalTitle": "Malt",
+      "componentName": "MaltIcon",
+      "slug": "malt"
     },
     {
       "originalTitle": "Mamba UI",
@@ -7778,6 +8183,11 @@
       "slug": "metafilter"
     },
     {
+      "originalTitle": "Metasploit",
+      "componentName": "MetasploitIcon",
+      "slug": "metasploit"
+    },
+    {
       "originalTitle": "Meteor",
       "componentName": "MeteorIcon",
       "slug": "meteor"
@@ -7951,6 +8361,11 @@
       "originalTitle": "Mikrotik",
       "componentName": "MikrotikIcon",
       "slug": "mikrotik"
+    },
+    {
+      "originalTitle": "Milanote",
+      "componentName": "MilanoteIcon",
+      "slug": "milanote"
     },
     {
       "originalTitle": "Milvus",
@@ -8243,6 +8658,11 @@
       "slug": "mumble"
     },
     {
+      "originalTitle": "MUO",
+      "componentName": "MuoIcon",
+      "slug": "muo"
+    },
+    {
       "originalTitle": "Mural",
       "componentName": "MuralIcon",
       "slug": "mural"
@@ -8303,6 +8723,21 @@
       "slug": "namecheap"
     },
     {
+      "originalTitle": "NameMC",
+      "componentName": "NameMcIcon",
+      "slug": "namemc"
+    },
+    {
+      "originalTitle": "NameSilo",
+      "componentName": "NameSiloIcon",
+      "slug": "namesilo"
+    },
+    {
+      "originalTitle": "Namu Wiki",
+      "componentName": "NamuWikiIcon",
+      "slug": "namuwiki"
+    },
+    {
       "originalTitle": "Nano",
       "componentName": "NanoIcon",
       "slug": "nano"
@@ -8316,6 +8751,11 @@
       "originalTitle": "National Grid",
       "componentName": "NationalGridIcon",
       "slug": "nationalgrid"
+    },
+    {
+      "originalTitle": "National Rail",
+      "componentName": "NationalRailIcon",
+      "slug": "nationalrail"
     },
     {
       "originalTitle": "NativeScript",
@@ -8373,6 +8813,11 @@
       "slug": "neovim"
     },
     {
+      "originalTitle": "Neptune",
+      "componentName": "NeptuneIcon",
+      "slug": "neptune"
+    },
+    {
       "originalTitle": "NestJS",
       "componentName": "NestJsIcon",
       "slug": "nestjs"
@@ -8391,6 +8836,11 @@
       "originalTitle": "netcup",
       "componentName": "NetcupIcon",
       "slug": "netcup"
+    },
+    {
+      "originalTitle": "Netdata",
+      "componentName": "NetdataIcon",
+      "slug": "netdata"
     },
     {
       "originalTitle": "NetEase Cloud Music",
@@ -8486,6 +8936,11 @@
       "originalTitle": "NextUI",
       "componentName": "NextUiIcon",
       "slug": "nextui"
+    },
+    {
+      "originalTitle": "Nexus Mods",
+      "componentName": "NexusModsIcon",
+      "slug": "nexusmods"
     },
     {
       "originalTitle": "NFC",
@@ -8596,6 +9051,11 @@
       "originalTitle": "Nokia",
       "componentName": "NokiaIcon",
       "slug": "nokia"
+    },
+    {
+      "originalTitle": "Nomad",
+      "componentName": "NomadIcon",
+      "slug": "nomad"
     },
     {
       "originalTitle": "Norco",
@@ -9073,6 +9533,11 @@
       "slug": "oracle"
     },
     {
+      "originalTitle": "Orange",
+      "componentName": "OrangeIcon",
+      "slug": "orange"
+    },
+    {
       "originalTitle": "ORCID",
       "componentName": "OrcidIcon",
       "slug": "orcid"
@@ -9253,9 +9718,24 @@
       "slug": "pantheon"
     },
     {
+      "originalTitle": "Paperless-ngx",
+      "componentName": "PaperlessngxIcon",
+      "slug": "paperlessngx"
+    },
+    {
+      "originalTitle": "Papers With Code",
+      "componentName": "PapersWithCodeIcon",
+      "slug": "paperswithcode"
+    },
+    {
       "originalTitle": "Paperspace",
       "componentName": "PaperspaceIcon",
       "slug": "paperspace"
+    },
+    {
+      "originalTitle": "Paramount+",
+      "componentName": "ParamountPlusIcon",
+      "slug": "paramountplus"
     },
     {
       "originalTitle": "Parity Substrate",
@@ -9388,6 +9868,11 @@
       "slug": "perl"
     },
     {
+      "originalTitle": "Perplexity",
+      "componentName": "PerplexityIcon",
+      "slug": "perplexity"
+    },
+    {
       "originalTitle": "Persistent",
       "componentName": "PersistentIcon",
       "slug": "persistent"
@@ -9451,6 +9936,11 @@
       "originalTitle": "Photocrowd",
       "componentName": "PhotocrowdIcon",
       "slug": "photocrowd"
+    },
+    {
+      "originalTitle": "Photon",
+      "componentName": "PhotonIcon",
+      "slug": "photon"
     },
     {
       "originalTitle": "Photopea",
@@ -9576,6 +10066,11 @@
       "originalTitle": "Pixabay",
       "componentName": "PixabayIcon",
       "slug": "pixabay"
+    },
+    {
+      "originalTitle": "Pixelfed",
+      "componentName": "PixelfedIcon",
+      "slug": "pixelfed"
     },
     {
       "originalTitle": "pixiv",
@@ -9813,6 +10308,11 @@
       "slug": "popos"
     },
     {
+      "originalTitle": "Porkbun",
+      "componentName": "PorkbunIcon",
+      "slug": "porkbun"
+    },
+    {
       "originalTitle": "Porsche",
       "componentName": "PorscheIcon",
       "slug": "porsche"
@@ -9976,6 +10476,11 @@
       "originalTitle": "Prismic",
       "componentName": "PrismicIcon",
       "slug": "prismic"
+    },
+    {
+      "originalTitle": "Private Division",
+      "componentName": "PrivateDivisionIcon",
+      "slug": "privatedivision"
     },
     {
       "originalTitle": "Private Internet Access",
@@ -10143,6 +10648,11 @@
       "slug": "purism"
     },
     {
+      "originalTitle": "Pushbullet",
+      "componentName": "PushbulletIcon",
+      "slug": "pushbullet"
+    },
+    {
       "originalTitle": "Pusher",
       "componentName": "PusherIcon",
       "slug": "pusher"
@@ -10156,6 +10666,11 @@
       "originalTitle": "PyCharm",
       "componentName": "PyCharmIcon",
       "slug": "pycharm"
+    },
+    {
+      "originalTitle": "PyCQA",
+      "componentName": "PyCqaIcon",
+      "slug": "pycqa"
     },
     {
       "originalTitle": "Pydantic",
@@ -10228,6 +10743,11 @@
       "slug": "qatarairways"
     },
     {
+      "originalTitle": "qbittorrent",
+      "componentName": "QbittorrentIcon",
+      "slug": "qbittorrent"
+    },
+    {
       "originalTitle": "QEMU",
       "componentName": "QemuIcon",
       "slug": "qemu"
@@ -10266,6 +10786,11 @@
       "originalTitle": "QMK",
       "componentName": "QmkIcon",
       "slug": "qmk"
+    },
+    {
+      "originalTitle": "QNAP",
+      "componentName": "QnapIcon",
+      "slug": "qnap"
     },
     {
       "originalTitle": "Qt",
@@ -10393,6 +10918,11 @@
       "slug": "radar"
     },
     {
+      "originalTitle": "radarr",
+      "componentName": "RadarrIcon",
+      "slug": "radarr"
+    },
+    {
       "originalTitle": "RadioPublic",
       "componentName": "RadioPublicIcon",
       "slug": "radiopublic"
@@ -10501,6 +11031,11 @@
       "originalTitle": "React Table",
       "componentName": "ReactTableIcon",
       "slug": "reacttable"
+    },
+    {
+      "originalTitle": "Reactive Resume",
+      "componentName": "ReactiveResumeIcon",
+      "slug": "reactiveresume"
     },
     {
       "originalTitle": "ReactiveX",
@@ -10633,6 +11168,11 @@
       "slug": "remark"
     },
     {
+      "originalTitle": "Remedy Entertainment",
+      "componentName": "RemedyEntertainmentIcon",
+      "slug": "remedyentertainment"
+    },
+    {
       "originalTitle": "Remix",
       "componentName": "RemixIcon",
       "slug": "remix"
@@ -10763,6 +11303,11 @@
       "slug": "rhinoceros"
     },
     {
+      "originalTitle": "Rich",
+      "componentName": "RichIcon",
+      "slug": "rich"
+    },
+    {
       "originalTitle": "Rider",
       "componentName": "RiderIcon",
       "slug": "rider"
@@ -10848,6 +11393,16 @@
       "slug": "rocksdb"
     },
     {
+      "originalTitle": "Rockstar Games",
+      "componentName": "RockstarGamesIcon",
+      "slug": "rockstargames"
+    },
+    {
+      "originalTitle": "Rockwell Automation",
+      "componentName": "RockwellAutomationIcon",
+      "slug": "rockwellautomation"
+    },
+    {
       "originalTitle": "Rocky Linux",
       "componentName": "RockyLinuxIcon",
       "slug": "rockylinux"
@@ -10856,6 +11411,11 @@
       "originalTitle": "Roku",
       "componentName": "RokuIcon",
       "slug": "roku"
+    },
+    {
+      "originalTitle": "Roll20",
+      "componentName": "Roll20Icon",
+      "slug": "roll20"
     },
     {
       "originalTitle": "Rolls-Royce",
@@ -10871,6 +11431,11 @@
       "originalTitle": "Rome",
       "componentName": "RomeIcon",
       "slug": "rome"
+    },
+    {
+      "originalTitle": "Roon",
+      "componentName": "RoonIcon",
+      "slug": "roon"
     },
     {
       "originalTitle": "Root Me",
@@ -10983,6 +11548,11 @@
       "slug": "ruff"
     },
     {
+      "originalTitle": "Rumahweb",
+      "componentName": "RumahwebIcon",
+      "slug": "rumahweb"
+    },
+    {
       "originalTitle": "Rumble",
       "componentName": "RumbleIcon",
       "slug": "rumble"
@@ -11011,6 +11581,11 @@
       "originalTitle": "Rust",
       "componentName": "RustIcon",
       "slug": "rust"
+    },
+    {
+      "originalTitle": "RustDesk",
+      "componentName": "RustDeskIcon",
+      "slug": "rustdesk"
     },
     {
       "originalTitle": "RxDB",
@@ -11066,6 +11641,11 @@
       "originalTitle": "Salesforce",
       "componentName": "SalesforceIcon",
       "slug": "salesforce"
+    },
+    {
+      "originalTitle": "Salla",
+      "componentName": "SallaIcon",
+      "slug": "salla"
     },
     {
       "originalTitle": "Salt Project",
@@ -11141,6 +11721,11 @@
       "originalTitle": "Sauce Labs",
       "componentName": "SauceLabsIcon",
       "slug": "saucelabs"
+    },
+    {
+      "originalTitle": "Saudia",
+      "componentName": "SaudiaIcon",
+      "slug": "saudia"
     },
     {
       "originalTitle": "Scala",
@@ -11478,6 +12063,11 @@
       "slug": "shutterstock"
     },
     {
+      "originalTitle": "Sidekiq",
+      "componentName": "SidekiqIcon",
+      "slug": "sidekiq"
+    },
+    {
       "originalTitle": "SideQuest",
       "componentName": "SideQuestIcon",
       "slug": "sidequest"
@@ -11738,6 +12328,11 @@
       "slug": "sogou"
     },
     {
+      "originalTitle": "Solana",
+      "componentName": "SolanaIcon",
+      "slug": "solana"
+    },
+    {
       "originalTitle": "Solid",
       "componentName": "SolidIcon",
       "slug": "solid"
@@ -11776,6 +12371,11 @@
       "originalTitle": "SonarQube",
       "componentName": "SonarQubeIcon",
       "slug": "sonarqube"
+    },
+    {
+      "originalTitle": "sonarr",
+      "componentName": "SonarrIcon",
+      "slug": "sonarr"
     },
     {
       "originalTitle": "Sonatype",
@@ -11853,6 +12453,11 @@
       "slug": "spacemacs"
     },
     {
+      "originalTitle": "Spaceship",
+      "componentName": "SpaceshipIcon",
+      "slug": "spaceship"
+    },
+    {
       "originalTitle": "SpaceX",
       "componentName": "SpaceXIcon",
       "slug": "spacex"
@@ -11921,6 +12526,11 @@
       "originalTitle": "SpigotMC",
       "componentName": "SpigotMcIcon",
       "slug": "spigotmc"
+    },
+    {
+      "originalTitle": "Spine",
+      "componentName": "SpineIcon",
+      "slug": "spine"
     },
     {
       "originalTitle": "Spinnaker",
@@ -12513,6 +13123,11 @@
       "slug": "tailwindcss"
     },
     {
+      "originalTitle": "Take-Two Interactive Software",
+      "componentName": "TaketwointeractivesoftwareIcon",
+      "slug": "taketwointeractivesoftware"
+    },
+    {
       "originalTitle": "Talend",
       "componentName": "TalendIcon",
       "slug": "talend"
@@ -12578,6 +13193,11 @@
       "slug": "taxbuzz"
     },
     {
+      "originalTitle": "Teal",
+      "componentName": "TealIcon",
+      "slug": "teal"
+    },
+    {
       "originalTitle": "TeamCity",
       "componentName": "TeamCityIcon",
       "slug": "teamcity"
@@ -12596,6 +13216,11 @@
       "originalTitle": "TED",
       "componentName": "TedIcon",
       "slug": "ted"
+    },
+    {
+      "originalTitle": "TeePublic",
+      "componentName": "TeePublicIcon",
+      "slug": "teepublic"
     },
     {
       "originalTitle": "Teespring",
@@ -12718,6 +13343,11 @@
       "slug": "thealgorithms"
     },
     {
+      "originalTitle": "The Boring Company",
+      "componentName": "TheBoringCompanyIcon",
+      "slug": "theboringcompany"
+    },
+    {
       "originalTitle": "The Conversation",
       "componentName": "TheConversationIcon",
       "slug": "theconversation"
@@ -12838,6 +13468,11 @@
       "slug": "ticketmaster"
     },
     {
+      "originalTitle": "TickTick",
+      "componentName": "TickTickIcon",
+      "slug": "ticktick"
+    },
+    {
       "originalTitle": "Tidal",
       "componentName": "TidalIcon",
       "slug": "tidal"
@@ -12866,6 +13501,11 @@
       "originalTitle": "TikTok",
       "componentName": "TikTokIcon",
       "slug": "tiktok"
+    },
+    {
+      "originalTitle": "Tilda Publishing",
+      "componentName": "TildaPublishingIcon",
+      "slug": "tildapublishing"
     },
     {
       "originalTitle": "Tile",
@@ -12953,6 +13593,11 @@
       "slug": "ton"
     },
     {
+      "originalTitle": "Top.gg",
+      "componentName": "TopDotggIcon",
+      "slug": "topdotgg"
+    },
+    {
       "originalTitle": "Topcoder",
       "componentName": "TopcoderIcon",
       "slug": "topcoder"
@@ -12976,6 +13621,11 @@
       "originalTitle": "Toshiba",
       "componentName": "ToshibaIcon",
       "slug": "toshiba"
+    },
+    {
+      "originalTitle": "TOTVS",
+      "componentName": "TotvsIcon",
+      "slug": "totvs"
     },
     {
       "originalTitle": "TourBox",
@@ -13128,6 +13778,11 @@
       "slug": "truenas"
     },
     {
+      "originalTitle": "TrueUp",
+      "componentName": "TrueUpIcon",
+      "slug": "trueup"
+    },
+    {
       "originalTitle": "trulia",
       "componentName": "TruliaIcon",
       "slug": "trulia"
@@ -13218,6 +13873,11 @@
       "slug": "twilio"
     },
     {
+      "originalTitle": "Twinkly",
+      "componentName": "TwinklyIcon",
+      "slug": "twinkly"
+    },
+    {
       "originalTitle": "Twitch",
       "componentName": "TwitchIcon",
       "slug": "twitch"
@@ -13233,6 +13893,11 @@
       "slug": "typeform"
     },
     {
+      "originalTitle": "Typer",
+      "componentName": "TyperIcon",
+      "slug": "typer"
+    },
+    {
       "originalTitle": "TypeScript",
       "componentName": "TypeScriptIcon",
       "slug": "typescript"
@@ -13241,6 +13906,11 @@
       "originalTitle": "TYPO3",
       "componentName": "Typo3Icon",
       "slug": "typo3"
+    },
+    {
+      "originalTitle": "Typst",
+      "componentName": "TypstIcon",
+      "slug": "typst"
     },
     {
       "originalTitle": "Uber",
@@ -13408,6 +14078,11 @@
       "slug": "upcloud"
     },
     {
+      "originalTitle": "Uphold",
+      "componentName": "UpholdIcon",
+      "slug": "uphold"
+    },
+    {
       "originalTitle": "UpLabs",
       "componentName": "UpLabsIcon",
       "slug": "uplabs"
@@ -13516,6 +14191,11 @@
       "originalTitle": "vBulletin",
       "componentName": "VBulletinIcon",
       "slug": "vbulletin"
+    },
+    {
+      "originalTitle": "Vectary",
+      "componentName": "VectaryIcon",
+      "slug": "vectary"
     },
     {
       "originalTitle": "Vector Logo Zone",
@@ -13723,6 +14403,11 @@
       "slug": "vivint"
     },
     {
+      "originalTitle": "vivo",
+      "componentName": "VivoIcon",
+      "slug": "vivo"
+    },
+    {
       "originalTitle": "VK",
       "componentName": "VkIcon",
       "slug": "vk"
@@ -13903,6 +14588,11 @@
       "slug": "wasmer"
     },
     {
+      "originalTitle": "Watchtower",
+      "componentName": "WatchtowerIcon",
+      "slug": "watchtower"
+    },
+    {
       "originalTitle": "Wattpad",
       "componentName": "WattpadIcon",
       "slug": "wattpad"
@@ -14053,6 +14743,11 @@
       "slug": "westerndigital"
     },
     {
+      "originalTitle": "Western Union",
+      "componentName": "WesternUnionIcon",
+      "slug": "westernunion"
+    },
+    {
       "originalTitle": "WeTransfer",
       "componentName": "WeTransferIcon",
       "slug": "wetransfer"
@@ -14101,6 +14796,11 @@
       "originalTitle": "Wikimedia Commons",
       "componentName": "WikimediaCommonsIcon",
       "slug": "wikimediacommons"
+    },
+    {
+      "originalTitle": "Wikimedia Foundation",
+      "componentName": "WikimediaFoundationIcon",
+      "slug": "wikimediafoundation"
     },
     {
       "originalTitle": "Wikipedia",
@@ -14218,6 +14918,11 @@
       "slug": "wondershare"
     },
     {
+      "originalTitle": "Wondershare Filmora",
+      "componentName": "WondershareFilmoraIcon",
+      "slug": "wondersharefilmora"
+    },
+    {
       "originalTitle": "Woo",
       "componentName": "WooIcon",
       "slug": "woo"
@@ -14331,6 +15036,11 @@
       "originalTitle": "XFCE",
       "componentName": "XfceIcon",
       "slug": "xfce"
+    },
+    {
+      "originalTitle": "Xiaohongshu",
+      "componentName": "XiaohongshuIcon",
+      "slug": "xiaohongshu"
     },
     {
       "originalTitle": "Xiaomi",
@@ -14473,6 +15183,11 @@
       "slug": "zabka"
     },
     {
+      "originalTitle": "Zaim",
+      "componentName": "ZaimIcon",
+      "slug": "zaim"
+    },
+    {
       "originalTitle": "Zalando",
       "componentName": "ZalandoIcon",
       "slug": "zalando"
@@ -14481,6 +15196,11 @@
       "originalTitle": "Zalo",
       "componentName": "ZaloIcon",
       "slug": "zalo"
+    },
+    {
+      "originalTitle": "ZAP",
+      "componentName": "ZapIcon",
+      "slug": "zap"
     },
     {
       "originalTitle": "Zapier",
@@ -14503,6 +15223,11 @@
       "slug": "zcash"
     },
     {
+      "originalTitle": "ZCOOL",
+      "componentName": "ZcoolIcon",
+      "slug": "zcool"
+    },
+    {
       "originalTitle": "ZDF",
       "componentName": "ZdfIcon",
       "slug": "zdf"
@@ -14516,6 +15241,11 @@
       "originalTitle": "Zebra Technologies",
       "componentName": "ZebraTechnologiesIcon",
       "slug": "zebratechnologies"
+    },
+    {
+      "originalTitle": "Zed Industries",
+      "componentName": "ZedIndustriesIcon",
+      "slug": "zedindustries"
     },
     {
       "originalTitle": "Zelle",
