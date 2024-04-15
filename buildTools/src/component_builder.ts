@@ -9,7 +9,7 @@ export function buildComponent(iconSVG: string): string {
 <template>
     ${iconSVG.replace(
       /<svg([^>]+)>/,
-      '<svg :width="finalSize" :height="finalSize" role="img" viewBox="0 0 24 24" v-bind="$attrs" >'
+      '<svg :width="finalSize" :height="finalSize" role="img" viewBox="0 0 24 24" v-bind="$attrs" fill="currentColor">'
     )}
 </template>
 ${componentScript}`;
