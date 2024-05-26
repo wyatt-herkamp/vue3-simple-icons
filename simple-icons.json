@@ -1,6 +1,6 @@
 {
-  "builtOn": "2024-04-21T10:29:25.165Z",
-  "simpleIconsVersion": "11.13.0",
+  "builtOn": "2024-05-26T11:01:23.471Z",
+  "simpleIconsVersion": "12.0.0",
   "components": [
     {
       "originalTitle": ".ENV",
@@ -403,9 +403,9 @@
       "slug": "airbnb"
     },
     {
-      "originalTitle": "Airbrake.io",
-      "componentName": "AirbrakeDotioIcon",
-      "slug": "airbrakedotio"
+      "originalTitle": "Airbrake",
+      "componentName": "AirbrakeIcon",
+      "slug": "airbrake"
     },
     {
       "originalTitle": "Airbus",
@@ -613,11 +613,6 @@
       "slug": "amazonapigateway"
     },
     {
-      "originalTitle": "Amazon AWS",
-      "componentName": "AmazonAwsIcon",
-      "slug": "amazonaws"
-    },
-    {
       "originalTitle": "Amazon CloudWatch",
       "componentName": "AmazonCloudWatchIcon",
       "slug": "amazoncloudwatch"
@@ -726,6 +721,11 @@
       "originalTitle": "Amazon SQS",
       "componentName": "AmazonSqsIcon",
       "slug": "amazonsqs"
+    },
+    {
+      "originalTitle": "Amazon Web Services",
+      "componentName": "AmazonWebServicesIcon",
+      "slug": "amazonwebservices"
     },
     {
       "originalTitle": "AMD",
@@ -1313,6 +1313,11 @@
       "slug": "audiotechnica"
     },
     {
+      "originalTitle": "Audiobookshelf",
+      "componentName": "AudiobookshelfIcon",
+      "slug": "audiobookshelf"
+    },
+    {
       "originalTitle": "Audioboom",
       "componentName": "AudioboomIcon",
       "slug": "audioboom"
@@ -1336,6 +1341,11 @@
       "originalTitle": "Authelia",
       "componentName": "AutheliaIcon",
       "slug": "authelia"
+    },
+    {
+      "originalTitle": "Authentik",
+      "componentName": "AuthentikIcon",
+      "slug": "authentik"
     },
     {
       "originalTitle": "Authy",
@@ -1446,6 +1456,11 @@
       "originalTitle": "AWS Secrets Manager",
       "componentName": "AwsSecretsManagerIcon",
       "slug": "awssecretsmanager"
+    },
+    {
+      "originalTitle": "Awwwards",
+      "componentName": "AwwwardsIcon",
+      "slug": "awwwards"
     },
     {
       "originalTitle": "Axios",
@@ -2083,6 +2098,11 @@
       "slug": "bugsnag"
     },
     {
+      "originalTitle": "Buhl",
+      "componentName": "BuhlIcon",
+      "slug": "buhl"
+    },
+    {
       "originalTitle": "Buildkite",
       "componentName": "BuildkiteIcon",
       "slug": "buildkite"
@@ -2218,9 +2238,19 @@
       "slug": "cakephp"
     },
     {
+      "originalTitle": "Cal.com",
+      "componentName": "CalDotcomIcon",
+      "slug": "caldotcom"
+    },
+    {
       "originalTitle": "Calendly",
       "componentName": "CalendlyIcon",
       "slug": "calendly"
+    },
+    {
+      "originalTitle": "Calibre-Web",
+      "componentName": "CalibrewebIcon",
+      "slug": "calibreweb"
     },
     {
       "originalTitle": "Campaign Monitor",
@@ -3758,6 +3788,11 @@
       "slug": "doordash"
     },
     {
+      "originalTitle": "Dota 2",
+      "componentName": "Dota2Icon",
+      "slug": "dota2"
+    },
+    {
       "originalTitle": "Douban",
       "componentName": "DoubanIcon",
       "slug": "douban"
@@ -4653,11 +4688,6 @@
       "slug": "fitbit"
     },
     {
-      "originalTitle": "FITE",
-      "componentName": "FiteIcon",
-      "slug": "fite"
-    },
-    {
       "originalTitle": "FiveM",
       "componentName": "FiveMIcon",
       "slug": "fivem"
@@ -4666,6 +4696,11 @@
       "originalTitle": "Fiverr",
       "componentName": "FiverrIcon",
       "slug": "fiverr"
+    },
+    {
+      "originalTitle": "Fizz",
+      "componentName": "FizzIcon",
+      "slug": "fizz"
     },
     {
       "originalTitle": "Flashforge",
@@ -4691,11 +4726,6 @@
       "originalTitle": "Flatpak",
       "componentName": "FlatpakIcon",
       "slug": "flatpak"
-    },
-    {
-      "originalTitle": "Flattr",
-      "componentName": "FlattrIcon",
-      "slug": "flattr"
     },
     {
       "originalTitle": "Flickr",
@@ -4848,6 +4878,11 @@
       "slug": "fossilscm"
     },
     {
+      "originalTitle": "Foundry Virtual Tabletop",
+      "componentName": "FoundryVirtualTabletopIcon",
+      "slug": "foundryvirtualtabletop"
+    },
+    {
       "originalTitle": "Foursquare",
       "componentName": "FoursquareIcon",
       "slug": "foursquare"
@@ -4908,6 +4943,11 @@
       "slug": "freebsd"
     },
     {
+      "originalTitle": "FreeCAD",
+      "componentName": "FreeCadIcon",
+      "slug": "freecad"
+    },
+    {
       "originalTitle": "freeCodeCamp",
       "componentName": "FreeCodeCampIcon",
       "slug": "freecodecamp"
@@ -4921,6 +4961,11 @@
       "originalTitle": "Freelancer",
       "componentName": "FreelancerIcon",
       "slug": "freelancer"
+    },
+    {
+      "originalTitle": "freelancermap",
+      "componentName": "FreelancermapIcon",
+      "slug": "freelancermap"
     },
     {
       "originalTitle": "FreeNAS",
@@ -4981,6 +5026,11 @@
       "originalTitle": "Furry Network",
       "componentName": "FurryNetworkIcon",
       "slug": "furrynetwork"
+    },
+    {
+      "originalTitle": "FusionAuth",
+      "componentName": "FusionAuthIcon",
+      "slug": "fusionauth"
     },
     {
       "originalTitle": "FutureLearn",
@@ -5051,6 +5101,11 @@
       "originalTitle": "Gatsby",
       "componentName": "GatsbyIcon",
       "slug": "gatsby"
+    },
+    {
+      "originalTitle": "Gcore",
+      "componentName": "GcoreIcon",
+      "slug": "gcore"
     },
     {
       "originalTitle": "GDAL",
@@ -5381,11 +5436,6 @@
       "originalTitle": "Google Authenticator",
       "componentName": "GoogleAuthenticatorIcon",
       "slug": "googleauthenticator"
-    },
-    {
-      "originalTitle": "Google Bard",
-      "componentName": "GoogleBardIcon",
-      "slug": "googlebard"
     },
     {
       "originalTitle": "Google BigQuery",
@@ -6108,6 +6158,11 @@
       "slug": "hivemq"
     },
     {
+      "originalTitle": "Homarr",
+      "componentName": "HomarrIcon",
+      "slug": "homarr"
+    },
+    {
       "originalTitle": "Home Assistant",
       "componentName": "HomeAssistantIcon",
       "slug": "homeassistant"
@@ -6131,6 +6186,11 @@
       "originalTitle": "Homebridge",
       "componentName": "HomebridgeIcon",
       "slug": "homebridge"
+    },
+    {
+      "originalTitle": "Homepage",
+      "componentName": "HomepageIcon",
+      "slug": "homepage"
     },
     {
       "originalTitle": "homify",
@@ -6241,6 +6301,11 @@
       "originalTitle": "HubSpot",
       "componentName": "HubSpotIcon",
       "slug": "hubspot"
+    },
+    {
+      "originalTitle": "Hugging Face",
+      "componentName": "HuggingFaceIcon",
+      "slug": "huggingface"
     },
     {
       "originalTitle": "Hugo",
@@ -6508,6 +6573,11 @@
       "slug": "influxdb"
     },
     {
+      "originalTitle": "Infomaniak",
+      "componentName": "InfomaniakIcon",
+      "slug": "infomaniak"
+    },
+    {
       "originalTitle": "InfoQ",
       "componentName": "InfoQIcon",
       "slug": "infoq"
@@ -6591,11 +6661,6 @@
       "originalTitle": "Instructure",
       "componentName": "InstructureIcon",
       "slug": "instructure"
-    },
-    {
-      "originalTitle": "Integromat",
-      "componentName": "IntegromatIcon",
-      "slug": "integromat"
     },
     {
       "originalTitle": "Intel",
@@ -7016,6 +7081,11 @@
       "originalTitle": "Kaggle",
       "componentName": "KaggleIcon",
       "slug": "kaggle"
+    },
+    {
+      "originalTitle": "Kagi",
+      "componentName": "KagiIcon",
+      "slug": "kagi"
     },
     {
       "originalTitle": "Kahoot!",
@@ -7508,6 +7578,11 @@
       "slug": "lemmy"
     },
     {
+      "originalTitle": "Lemon Squeezy",
+      "componentName": "LemonSqueezyIcon",
+      "slug": "lemonsqueezy"
+    },
+    {
       "originalTitle": "Lenovo",
       "componentName": "LenovoIcon",
       "slug": "lenovo"
@@ -7658,6 +7733,11 @@
       "slug": "lightning"
     },
     {
+      "originalTitle": "LimeSurvey",
+      "componentName": "LimeSurveyIcon",
+      "slug": "limesurvey"
+    },
+    {
       "originalTitle": "LINE",
       "componentName": "LineIcon",
       "slug": "line"
@@ -7741,6 +7821,11 @@
       "originalTitle": "Liquibase",
       "componentName": "LiquibaseIcon",
       "slug": "liquibase"
+    },
+    {
+      "originalTitle": "listmonk",
+      "componentName": "ListmonkIcon",
+      "slug": "listmonk"
     },
     {
       "originalTitle": "Lit",
@@ -7981,6 +8066,11 @@
       "originalTitle": "Mailtrap",
       "componentName": "MailtrapIcon",
       "slug": "mailtrap"
+    },
+    {
+      "originalTitle": "MainWP",
+      "componentName": "MainWpIcon",
+      "slug": "mainwp"
     },
     {
       "originalTitle": "Major League Hacking",
@@ -8853,6 +8943,11 @@
       "slug": "n26"
     },
     {
+      "originalTitle": "n8n",
+      "componentName": "N8nIcon",
+      "slug": "n8n"
+    },
+    {
       "originalTitle": "Namebase",
       "componentName": "NamebaseIcon",
       "slug": "namebase"
@@ -9113,11 +9208,6 @@
       "slug": "nhl"
     },
     {
-      "originalTitle": "Niantic",
-      "componentName": "NianticIcon",
-      "slug": "niantic"
-    },
-    {
       "originalTitle": "niconico",
       "componentName": "NiconicoIcon",
       "slug": "niconico"
@@ -9151,11 +9241,6 @@
       "originalTitle": "Nintendo GameCube",
       "componentName": "NintendoGameCubeIcon",
       "slug": "nintendogamecube"
-    },
-    {
-      "originalTitle": "Nintendo Network",
-      "componentName": "NintendoNetworkIcon",
-      "slug": "nintendonetwork"
     },
     {
       "originalTitle": "Nintendo Switch",
@@ -9548,9 +9633,19 @@
       "slug": "openjdk"
     },
     {
+      "originalTitle": "OpenJS Foundation",
+      "componentName": "OpenJsFoundationIcon",
+      "slug": "openjsfoundation"
+    },
+    {
       "originalTitle": "Openlayers",
       "componentName": "OpenlayersIcon",
       "slug": "openlayers"
+    },
+    {
+      "originalTitle": "openmediavault",
+      "componentName": "OpenmediavaultIcon",
+      "slug": "openmediavault"
     },
     {
       "originalTitle": "OpenMined",
@@ -9671,6 +9766,11 @@
       "originalTitle": "OpsLevel",
       "componentName": "OpsLevelIcon",
       "slug": "opslevel"
+    },
+    {
+      "originalTitle": "Optimism",
+      "componentName": "OptimismIcon",
+      "slug": "optimism"
     },
     {
       "originalTitle": "Oracle",
@@ -10483,6 +10583,11 @@
       "slug": "portswigger"
     },
     {
+      "originalTitle": "Posit",
+      "componentName": "PositIcon",
+      "slug": "posit"
+    },
+    {
       "originalTitle": "PostCSS",
       "componentName": "PostCssIcon",
       "slug": "postcss"
@@ -10988,6 +11093,11 @@
       "slug": "quarkus"
     },
     {
+      "originalTitle": "Quarto",
+      "componentName": "QuartoIcon",
+      "slug": "quarto"
+    },
+    {
       "originalTitle": "Quasar",
       "componentName": "QuasarIcon",
       "slug": "quasar"
@@ -11026,6 +11136,11 @@
       "originalTitle": "Quip",
       "componentName": "QuipIcon",
       "slug": "quip"
+    },
+    {
+      "originalTitle": "Quizlet",
+      "componentName": "QuizletIcon",
+      "slug": "quizlet"
     },
     {
       "originalTitle": "Quora",
@@ -11176,6 +11291,11 @@
       "originalTitle": "React",
       "componentName": "ReactIcon",
       "slug": "react"
+    },
+    {
+      "originalTitle": "React Bootstrap",
+      "componentName": "ReactBootstrapIcon",
+      "slug": "reactbootstrap"
     },
     {
       "originalTitle": "React Hook Form",
@@ -11603,11 +11723,6 @@
       "slug": "rollupdotjs"
     },
     {
-      "originalTitle": "Rome",
-      "componentName": "RomeIcon",
-      "slug": "rome"
-    },
-    {
       "originalTitle": "Roon",
       "componentName": "RoonIcon",
       "slug": "roon"
@@ -11668,9 +11783,9 @@
       "slug": "rss"
     },
     {
-      "originalTitle": "RStudio",
-      "componentName": "RStudioIcon",
-      "slug": "rstudio"
+      "originalTitle": "RStudio IDE",
+      "componentName": "RStudioIdeIcon",
+      "slug": "rstudioide"
     },
     {
       "originalTitle": "RTÉ",
@@ -11716,6 +11831,11 @@
       "originalTitle": "RubyGems",
       "componentName": "RubyGemsIcon",
       "slug": "rubygems"
+    },
+    {
+      "originalTitle": "RubyMine",
+      "componentName": "RubyMineIcon",
+      "slug": "rubymine"
     },
     {
       "originalTitle": "Ruff",
@@ -11871,6 +11991,11 @@
       "originalTitle": "SAP",
       "componentName": "SapIcon",
       "slug": "sap"
+    },
+    {
+      "originalTitle": "Sartorius",
+      "componentName": "SartoriusIcon",
+      "slug": "sartorius"
     },
     {
       "originalTitle": "Sass",
@@ -12218,11 +12343,6 @@
       "slug": "shortcut"
     },
     {
-      "originalTitle": "Shotcut",
-      "componentName": "ShotcutIcon",
-      "slug": "shotcut"
-    },
-    {
       "originalTitle": "Showpad",
       "componentName": "ShowpadIcon",
       "slug": "showpad"
@@ -12361,11 +12481,6 @@
       "originalTitle": "Sky",
       "componentName": "SkyIcon",
       "slug": "sky"
-    },
-    {
-      "originalTitle": "Skynet",
-      "componentName": "SkynetIcon",
-      "slug": "skynet"
     },
     {
       "originalTitle": "Skypack",
@@ -12918,6 +13033,11 @@
       "slug": "statamic"
     },
     {
+      "originalTitle": "Statista",
+      "componentName": "StatistaIcon",
+      "slug": "statista"
+    },
+    {
       "originalTitle": "Statuspage",
       "componentName": "StatuspageIcon",
       "slug": "statuspage"
@@ -13311,6 +13431,11 @@
       "originalTitle": "Tails",
       "componentName": "TailsIcon",
       "slug": "tails"
+    },
+    {
+      "originalTitle": "Tailscale",
+      "componentName": "TailscaleIcon",
+      "slug": "tailscale"
     },
     {
       "originalTitle": "Tailwind CSS",
@@ -13743,6 +13868,11 @@
       "slug": "tinkercad"
     },
     {
+      "originalTitle": "tinygrad",
+      "componentName": "TinygradIcon",
+      "slug": "tinygrad"
+    },
+    {
       "originalTitle": "TinyLetter",
       "componentName": "TinyLetterIcon",
       "slug": "tinyletter"
@@ -13856,6 +13986,11 @@
       "originalTitle": "tqdm",
       "componentName": "TqdmIcon",
       "slug": "tqdm"
+    },
+    {
+      "originalTitle": "Traccar",
+      "componentName": "TraccarIcon",
+      "slug": "traccar"
     },
     {
       "originalTitle": "TradingView",
@@ -14093,14 +14228,14 @@
       "slug": "twinkly"
     },
     {
+      "originalTitle": "Twinmotion",
+      "componentName": "TwinmotionIcon",
+      "slug": "twinmotion"
+    },
+    {
       "originalTitle": "Twitch",
       "componentName": "TwitchIcon",
       "slug": "twitch"
-    },
-    {
-      "originalTitle": "Twitter",
-      "componentName": "TwitterIcon",
-      "slug": "twitter"
     },
     {
       "originalTitle": "Typeform",
@@ -14181,6 +14316,11 @@
       "originalTitle": "UIkit",
       "componentName": "UIkitIcon",
       "slug": "uikit"
+    },
+    {
+      "originalTitle": "UiPath",
+      "componentName": "UiPathIcon",
+      "slug": "uipath"
     },
     {
       "originalTitle": "Ulule",
@@ -14266,6 +14406,11 @@
       "originalTitle": "UnoCSS",
       "componentName": "UnoCssIcon",
       "slug": "unocss"
+    },
+    {
+      "originalTitle": "unpkg",
+      "componentName": "UnpkgIcon",
+      "slug": "unpkg"
     },
     {
       "originalTitle": "Unraid",
@@ -15526,6 +15671,11 @@
       "originalTitle": "Zigbee",
       "componentName": "ZigbeeIcon",
       "slug": "zigbee"
+    },
+    {
+      "originalTitle": "Zigbee2MQTT",
+      "componentName": "Zigbee2mqttIcon",
+      "slug": "zigbee2mqtt"
     },
     {
       "originalTitle": "Ziggo",

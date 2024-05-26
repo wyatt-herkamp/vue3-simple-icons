@@ -8,7 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.4.22",
+    "vue": "^3.4.27",
     "lodash.kebabcase": "^4.1.1",
     "prismjs": "^1.29.0",
     "vue-tippy": "^6.4.1",
@@ -20,7 +20,7 @@
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.4",
     "vite": "^5.2",
-    "sass": "^1.75",
+    "sass": "^1.77",
     "prettier": "^3",
     "@vue/tsconfig": "^0.5",
     "@tsconfig/node18": "^18.2",
