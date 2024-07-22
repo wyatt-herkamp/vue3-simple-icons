@@ -1,6 +1,6 @@
 {
-  "builtOn": "2024-05-26T11:01:23.471Z",
-  "simpleIconsVersion": "12.0.0",
+  "builtOn": "2024-07-22T11:33:36.159Z",
+  "simpleIconsVersion": "13.2.0",
   "components": [
     {
       "originalTitle": ".ENV",
@@ -18,14 +18,29 @@
       "slug": "e"
     },
     {
+      "originalTitle": "1.1.1.1",
+      "componentName": "OneDot1dot1dot1Icon",
+      "slug": "1dot1dot1dot1"
+    },
+    {
       "originalTitle": "1001Tracklists",
       "componentName": "OneThousandOneTracklistsIcon",
       "slug": "1001tracklists"
     },
     {
+      "originalTitle": "1Panel",
+      "componentName": "OnePanelIcon",
+      "slug": "1panel"
+    },
+    {
       "originalTitle": "1Password",
       "componentName": "OnePasswordIcon",
       "slug": "1password"
+    },
+    {
+      "originalTitle": "2FAS",
+      "componentName": "TwoFasIcon",
+      "slug": "2fas"
     },
     {
       "originalTitle": "2K",
@@ -286,6 +301,11 @@
       "originalTitle": "Adyen",
       "componentName": "AdyenIcon",
       "slug": "adyen"
+    },
+    {
+      "originalTitle": "Aegis Authenticator",
+      "componentName": "AegisAuthenticatorIcon",
+      "slug": "aegisauthenticator"
     },
     {
       "originalTitle": "Aer Lingus",
@@ -818,6 +838,11 @@
       "slug": "ankermake"
     },
     {
+      "originalTitle": "Anki",
+      "componentName": "AnkiIcon",
+      "slug": "anki"
+    },
+    {
       "originalTitle": "Ansible",
       "componentName": "AnsibleIcon",
       "slug": "ansible"
@@ -943,6 +968,11 @@
       "slug": "apachehadoop"
     },
     {
+      "originalTitle": "Apache HBase",
+      "componentName": "ApacheHBaseIcon",
+      "slug": "apachehbase"
+    },
+    {
       "originalTitle": "Apache Hive",
       "componentName": "ApacheHiveIcon",
       "slug": "apachehive"
@@ -1006,6 +1036,11 @@
       "originalTitle": "Apache Storm",
       "componentName": "ApacheStormIcon",
       "slug": "apachestorm"
+    },
+    {
+      "originalTitle": "Apache Superset",
+      "componentName": "ApacheSupersetIcon",
+      "slug": "apachesuperset"
     },
     {
       "originalTitle": "Apache Tomcat",
@@ -1258,9 +1293,24 @@
       "slug": "assemblyscript"
     },
     {
+      "originalTitle": "Asterisk",
+      "componentName": "AsteriskIcon",
+      "slug": "asterisk"
+    },
+    {
       "originalTitle": "Aston Martin",
       "componentName": "AstonMartinIcon",
       "slug": "astonmartin"
+    },
+    {
+      "originalTitle": "Astra",
+      "componentName": "AstraIcon",
+      "slug": "astra"
+    },
+    {
+      "originalTitle": "Astral",
+      "componentName": "AstralIcon",
+      "slug": "astral"
     },
     {
       "originalTitle": "Astro",
@@ -1356,6 +1406,11 @@
       "originalTitle": "AutoCAD",
       "componentName": "AutoCadIcon",
       "slug": "autocad"
+    },
+    {
+      "originalTitle": "AutoCannon",
+      "componentName": "AutoCannonIcon",
+      "slug": "autocannon"
     },
     {
       "originalTitle": "Autodesk",
@@ -1468,31 +1523,6 @@
       "slug": "axios"
     },
     {
-      "originalTitle": "Azure Artifacts",
-      "componentName": "AzureArtifactsIcon",
-      "slug": "azureartifacts"
-    },
-    {
-      "originalTitle": "Azure Data Explorer",
-      "componentName": "AzureDataExplorerIcon",
-      "slug": "azuredataexplorer"
-    },
-    {
-      "originalTitle": "Azure DevOps",
-      "componentName": "AzureDevOpsIcon",
-      "slug": "azuredevops"
-    },
-    {
-      "originalTitle": "Azure Functions",
-      "componentName": "AzureFunctionsIcon",
-      "slug": "azurefunctions"
-    },
-    {
-      "originalTitle": "Azure Pipelines",
-      "componentName": "AzurePipelinesIcon",
-      "slug": "azurepipelines"
-    },
-    {
       "originalTitle": "B&R Automation",
       "componentName": "BAndRAutomationIcon",
       "slug": "bandrautomation"
@@ -1506,6 +1536,11 @@
       "originalTitle": "Babelio",
       "componentName": "BabelioIcon",
       "slug": "babelio"
+    },
+    {
+      "originalTitle": "Babylon.js",
+      "componentName": "BabylonDotjsIcon",
+      "slug": "babylondotjs"
     },
     {
       "originalTitle": "Backblaze",
@@ -1546,6 +1581,11 @@
       "originalTitle": "Bamboo",
       "componentName": "BambooIcon",
       "slug": "bamboo"
+    },
+    {
+      "originalTitle": "Bambu Lab",
+      "componentName": "BambuLabIcon",
+      "slug": "bambulab"
     },
     {
       "originalTitle": "Bandcamp",
@@ -1636,6 +1676,11 @@
       "originalTitle": "BeatStars",
       "componentName": "BeatStarsIcon",
       "slug": "beatstars"
+    },
+    {
+      "originalTitle": "Beekeeper Studio",
+      "componentName": "BeekeeperStudioIcon",
+      "slug": "beekeeperstudio"
     },
     {
       "originalTitle": "Behance",
@@ -2048,6 +2093,11 @@
       "slug": "broadcom"
     },
     {
+      "originalTitle": "Bruno",
+      "componentName": "BrunoIcon",
+      "slug": "bruno"
+    },
+    {
       "originalTitle": "BSD",
       "componentName": "BsdIcon",
       "slug": "bsd"
@@ -2181,11 +2231,6 @@
       "originalTitle": "C",
       "componentName": "CIcon",
       "slug": "c"
-    },
-    {
-      "originalTitle": "C#",
-      "componentName": "CsharpIcon",
-      "slug": "csharp"
     },
     {
       "originalTitle": "C++",
@@ -2506,6 +2551,11 @@
       "originalTitle": "Chromatic",
       "componentName": "ChromaticIcon",
       "slug": "chromatic"
+    },
+    {
+      "originalTitle": "Chrome Web Store",
+      "componentName": "ChromeWebStoreIcon",
+      "slug": "chromewebstore"
     },
     {
       "originalTitle": "Chromecast",
@@ -2863,6 +2913,11 @@
       "slug": "codeproject"
     },
     {
+      "originalTitle": "Coder",
+      "componentName": "CoderIcon",
+      "slug": "coder"
+    },
+    {
       "originalTitle": "CodersRank",
       "componentName": "CodersRankIcon",
       "slug": "codersrank"
@@ -2946,6 +3001,11 @@
       "originalTitle": "ComicFury",
       "componentName": "ComicFuryIcon",
       "slug": "comicfury"
+    },
+    {
+      "originalTitle": "comma",
+      "componentName": "CommaIcon",
+      "slug": "comma"
     },
     {
       "originalTitle": "Commerzbank",
@@ -3233,6 +3293,11 @@
       "slug": "crystal"
     },
     {
+      "originalTitle": "CSS Design Awards",
+      "componentName": "CssDesignAwardsIcon",
+      "slug": "cssdesignawards"
+    },
+    {
       "originalTitle": "CSS Modules",
       "componentName": "CssModulesIcon",
       "slug": "cssmodules"
@@ -3338,11 +3403,6 @@
       "slug": "dailymotion"
     },
     {
-      "originalTitle": "Daimler",
-      "componentName": "DaimlerIcon",
-      "slug": "daimler"
-    },
-    {
       "originalTitle": "DaisyUI",
       "componentName": "DaisyUiIcon",
       "slug": "daisyui"
@@ -3428,14 +3488,14 @@
       "slug": "datastax"
     },
     {
-      "originalTitle": "Dataverse",
-      "componentName": "DataverseIcon",
-      "slug": "dataverse"
-    },
-    {
       "originalTitle": "date-fns",
       "componentName": "DatefnsIcon",
       "slug": "datefns"
+    },
+    {
+      "originalTitle": "DATEV",
+      "componentName": "DatevIcon",
+      "slug": "datev"
     },
     {
       "originalTitle": "DatoCMS",
@@ -3583,11 +3643,6 @@
       "slug": "derspiegel"
     },
     {
-      "originalTitle": "Designer News",
-      "componentName": "DesignerNewsIcon",
-      "slug": "designernews"
-    },
-    {
       "originalTitle": "Deutsche Bahn",
       "componentName": "DeutscheBahnIcon",
       "slug": "deutschebahn"
@@ -3651,6 +3706,11 @@
       "originalTitle": "Diaspora",
       "componentName": "DiasporaIcon",
       "slug": "diaspora"
+    },
+    {
+      "originalTitle": "Dictionary.com",
+      "componentName": "DictionaryDotcomIcon",
+      "slug": "dictionarydotcom"
     },
     {
       "originalTitle": "Digg",
@@ -3758,14 +3818,14 @@
       "slug": "docsify"
     },
     {
+      "originalTitle": "Doctrine",
+      "componentName": "DoctrineIcon",
+      "slug": "doctrine"
+    },
+    {
       "originalTitle": "Docusaurus",
       "componentName": "DocusaurusIcon",
       "slug": "docusaurus"
-    },
-    {
-      "originalTitle": "DocuSign",
-      "componentName": "DocuSignIcon",
-      "slug": "docusign"
     },
     {
       "originalTitle": "Dogecoin",
@@ -3806,6 +3866,11 @@
       "originalTitle": "Dovecot",
       "componentName": "DovecotIcon",
       "slug": "dovecot"
+    },
+    {
+      "originalTitle": "Dovetail",
+      "componentName": "DovetailIcon",
+      "slug": "dovetail"
     },
     {
       "originalTitle": "Doxygen",
@@ -3913,6 +3978,11 @@
       "slug": "duolingo"
     },
     {
+      "originalTitle": "Duplicati",
+      "componentName": "DuplicatiIcon",
+      "slug": "duplicati"
+    },
+    {
       "originalTitle": "DVC",
       "componentName": "DvcIcon",
       "slug": "dvc"
@@ -3921,11 +3991,6 @@
       "originalTitle": "dwm",
       "componentName": "DwmIcon",
       "slug": "dwm"
-    },
-    {
-      "originalTitle": "Dynamics 365",
-      "componentName": "Dynamics365Icon",
-      "slug": "dynamics365"
     },
     {
       "originalTitle": "Dynatrace",
@@ -4236,6 +4301,11 @@
       "originalTitle": "Equinix Metal",
       "componentName": "EquinixMetalIcon",
       "slug": "equinixmetal"
+    },
+    {
+      "originalTitle": "Eraser",
+      "componentName": "EraserIcon",
+      "slug": "eraser"
     },
     {
       "originalTitle": "Ericsson",
@@ -4848,6 +4918,11 @@
       "slug": "forgejo"
     },
     {
+      "originalTitle": "Formik",
+      "componentName": "FormikIcon",
+      "slug": "formik"
+    },
+    {
       "originalTitle": "Formspree",
       "componentName": "FormspreeIcon",
       "slug": "formspree"
@@ -5148,6 +5223,11 @@
       "slug": "geocaching"
     },
     {
+      "originalTitle": "Geode",
+      "componentName": "GeodeIcon",
+      "slug": "geode"
+    },
+    {
       "originalTitle": "GeoPandas",
       "componentName": "GeoPandasIcon",
       "slug": "geopandas"
@@ -5196,6 +5276,11 @@
       "originalTitle": "Git Extensions",
       "componentName": "GitExtensionsIcon",
       "slug": "gitextensions"
+    },
+    {
+      "originalTitle": "Git for Windows",
+      "componentName": "GitForWindowsIcon",
+      "slug": "gitforwindows"
     },
     {
       "originalTitle": "Git LFS",
@@ -5296,6 +5381,11 @@
       "originalTitle": "Glovo",
       "componentName": "GlovoIcon",
       "slug": "glovo"
+    },
+    {
+      "originalTitle": "glTF",
+      "componentName": "GlTfIcon",
+      "slug": "gltf"
     },
     {
       "originalTitle": "Gmail",
@@ -5538,11 +5628,6 @@
       "slug": "googledocs"
     },
     {
-      "originalTitle": "Google Domains",
-      "componentName": "GoogleDomainsIcon",
-      "slug": "googledomains"
-    },
-    {
       "originalTitle": "Google Drive",
       "componentName": "GoogleDriveIcon",
       "slug": "googledrive"
@@ -5576,11 +5661,6 @@
       "originalTitle": "Google Gemini",
       "componentName": "GoogleGeminiIcon",
       "slug": "googlegemini"
-    },
-    {
-      "originalTitle": "Google Hangouts",
-      "componentName": "GoogleHangoutsIcon",
-      "slug": "googlehangouts"
     },
     {
       "originalTitle": "Google Home",
@@ -5618,11 +5698,6 @@
       "slug": "googlemessages"
     },
     {
-      "originalTitle": "Google My Business",
-      "componentName": "GoogleMyBusinessIcon",
-      "slug": "googlemybusiness"
-    },
-    {
       "originalTitle": "Google Nearby",
       "componentName": "GoogleNearbyIcon",
       "slug": "googlenearby"
@@ -5631,11 +5706,6 @@
       "originalTitle": "Google News",
       "componentName": "GoogleNewsIcon",
       "slug": "googlenews"
-    },
-    {
-      "originalTitle": "Google Optimize",
-      "componentName": "GoogleOptimizeIcon",
-      "slug": "googleoptimize"
     },
     {
       "originalTitle": "Google Pay",
@@ -5651,11 +5721,6 @@
       "originalTitle": "Google Play",
       "componentName": "GooglePlayIcon",
       "slug": "googleplay"
-    },
-    {
-      "originalTitle": "Google Podcasts",
-      "componentName": "GooglePodcastsIcon",
-      "slug": "googlepodcasts"
     },
     {
       "originalTitle": "Google Pub/Sub",
@@ -5871,6 +5936,11 @@
       "originalTitle": "Gurobi",
       "componentName": "GurobiIcon",
       "slug": "gurobi"
+    },
+    {
+      "originalTitle": "Gusto",
+      "componentName": "GustoIcon",
+      "slug": "gusto"
     },
     {
       "originalTitle": "Gutenberg",
@@ -6343,6 +6413,11 @@
       "slug": "hypothesis"
     },
     {
+      "originalTitle": "Hyprland",
+      "componentName": "HyprlandIcon",
+      "slug": "hyprland"
+    },
+    {
       "originalTitle": "Hyundai",
       "componentName": "HyundaiIcon",
       "slug": "hyundai"
@@ -6371,21 +6446,6 @@
       "originalTitle": "Iberia",
       "componentName": "IberiaIcon",
       "slug": "iberia"
-    },
-    {
-      "originalTitle": "IBM",
-      "componentName": "IbmIcon",
-      "slug": "ibm"
-    },
-    {
-      "originalTitle": "IBM Cloud",
-      "componentName": "IbmCloudIcon",
-      "slug": "ibmcloud"
-    },
-    {
-      "originalTitle": "IBM Watson",
-      "componentName": "IbmWatsonIcon",
-      "slug": "ibmwatson"
     },
     {
       "originalTitle": "Iced",
@@ -6706,11 +6766,6 @@
       "originalTitle": "Internet Computer",
       "componentName": "InternetComputerIcon",
       "slug": "internetcomputer"
-    },
-    {
-      "originalTitle": "Internet Explorer",
-      "componentName": "InternetExplorerIcon",
-      "slug": "internetexplorer"
     },
     {
       "originalTitle": "Intigriti",
@@ -7323,6 +7378,11 @@
       "slug": "knime"
     },
     {
+      "originalTitle": "Knip",
+      "componentName": "KnipIcon",
+      "slug": "knip"
+    },
+    {
       "originalTitle": "KnowledgeBase",
       "componentName": "KnowledgeBaseIcon",
       "slug": "knowledgebase"
@@ -7356,6 +7416,11 @@
       "originalTitle": "Kodi",
       "componentName": "KodiIcon",
       "slug": "kodi"
+    },
+    {
+      "originalTitle": "Koenigsegg",
+      "componentName": "KoenigseggIcon",
+      "slug": "koenigsegg"
     },
     {
       "originalTitle": "Kofax",
@@ -7483,6 +7548,11 @@
       "slug": "landrover"
     },
     {
+      "originalTitle": "LangChain",
+      "componentName": "LangChainIcon",
+      "slug": "langchain"
+    },
+    {
       "originalTitle": "Lapce",
       "componentName": "LapceIcon",
       "slug": "lapce"
@@ -7531,6 +7601,11 @@
       "originalTitle": "Lazarus",
       "componentName": "LazarusIcon",
       "slug": "lazarus"
+    },
+    {
+      "originalTitle": "LazyVim",
+      "componentName": "LazyVimIcon",
+      "slug": "lazyvim"
     },
     {
       "originalTitle": "LBRY",
@@ -7698,6 +7773,11 @@
       "slug": "libreofficewriter"
     },
     {
+      "originalTitle": "LibreWolf",
+      "componentName": "LibreWolfIcon",
+      "slug": "librewolf"
+    },
+    {
       "originalTitle": "libuv",
       "componentName": "LibuvIcon",
       "slug": "libuv"
@@ -7838,6 +7918,11 @@
       "slug": "litecoin"
     },
     {
+      "originalTitle": "Literal",
+      "componentName": "LiteralIcon",
+      "slug": "literal"
+    },
+    {
       "originalTitle": "LITIENGINE",
       "componentName": "LitiengineIcon",
       "slug": "litiengine"
@@ -7866,6 +7951,11 @@
       "originalTitle": "LMMS",
       "componentName": "LmmsIcon",
       "slug": "lmms"
+    },
+    {
+      "originalTitle": "Lobsters",
+      "componentName": "LobstersIcon",
+      "slug": "lobsters"
     },
     {
       "originalTitle": "Local",
@@ -8473,101 +8563,6 @@
       "slug": "micropython"
     },
     {
-      "originalTitle": "Microsoft",
-      "componentName": "MicrosoftIcon",
-      "slug": "microsoft"
-    },
-    {
-      "originalTitle": "Microsoft Academic",
-      "componentName": "MicrosoftAcademicIcon",
-      "slug": "microsoftacademic"
-    },
-    {
-      "originalTitle": "Microsoft Access",
-      "componentName": "MicrosoftAccessIcon",
-      "slug": "microsoftaccess"
-    },
-    {
-      "originalTitle": "Microsoft Azure",
-      "componentName": "MicrosoftAzureIcon",
-      "slug": "microsoftazure"
-    },
-    {
-      "originalTitle": "Microsoft Bing",
-      "componentName": "MicrosoftBingIcon",
-      "slug": "microsoftbing"
-    },
-    {
-      "originalTitle": "Microsoft Edge",
-      "componentName": "MicrosoftEdgeIcon",
-      "slug": "microsoftedge"
-    },
-    {
-      "originalTitle": "Microsoft Excel",
-      "componentName": "MicrosoftExcelIcon",
-      "slug": "microsoftexcel"
-    },
-    {
-      "originalTitle": "Microsoft Exchange",
-      "componentName": "MicrosoftExchangeIcon",
-      "slug": "microsoftexchange"
-    },
-    {
-      "originalTitle": "Microsoft OneDrive",
-      "componentName": "MicrosoftOneDriveIcon",
-      "slug": "microsoftonedrive"
-    },
-    {
-      "originalTitle": "Microsoft OneNote",
-      "componentName": "MicrosoftOneNoteIcon",
-      "slug": "microsoftonenote"
-    },
-    {
-      "originalTitle": "Microsoft Outlook",
-      "componentName": "MicrosoftOutlookIcon",
-      "slug": "microsoftoutlook"
-    },
-    {
-      "originalTitle": "Microsoft PowerPoint",
-      "componentName": "MicrosoftPowerPointIcon",
-      "slug": "microsoftpowerpoint"
-    },
-    {
-      "originalTitle": "Microsoft SharePoint",
-      "componentName": "MicrosoftSharePointIcon",
-      "slug": "microsoftsharepoint"
-    },
-    {
-      "originalTitle": "Microsoft SQL Server",
-      "componentName": "MicrosoftSqlServerIcon",
-      "slug": "microsoftsqlserver"
-    },
-    {
-      "originalTitle": "Microsoft Store",
-      "componentName": "MicrosoftStoreIcon",
-      "slug": "microsoftstore"
-    },
-    {
-      "originalTitle": "Microsoft Teams",
-      "componentName": "MicrosoftTeamsIcon",
-      "slug": "microsoftteams"
-    },
-    {
-      "originalTitle": "Microsoft Translator",
-      "componentName": "MicrosoftTranslatorIcon",
-      "slug": "microsofttranslator"
-    },
-    {
-      "originalTitle": "Microsoft Visio",
-      "componentName": "MicrosoftVisioIcon",
-      "slug": "microsoftvisio"
-    },
-    {
-      "originalTitle": "Microsoft Word",
-      "componentName": "MicrosoftWordIcon",
-      "slug": "microsoftword"
-    },
-    {
       "originalTitle": "Microstation",
       "componentName": "MicrostationIcon",
       "slug": "microstation"
@@ -8608,11 +8603,6 @@
       "slug": "minds"
     },
     {
-      "originalTitle": "Minecraft",
-      "componentName": "MinecraftIcon",
-      "slug": "minecraft"
-    },
-    {
       "originalTitle": "Minetest",
       "componentName": "MinetestIcon",
       "slug": "minetest"
@@ -8626,6 +8616,11 @@
       "originalTitle": "MinIO",
       "componentName": "MinIoIcon",
       "slug": "minio"
+    },
+    {
+      "originalTitle": "Mintlify",
+      "componentName": "MintlifyIcon",
+      "slug": "mintlify"
     },
     {
       "originalTitle": "Minutemailer",
@@ -8698,6 +8693,11 @@
       "slug": "mockserviceworker"
     },
     {
+      "originalTitle": "Modal",
+      "componentName": "ModalIcon",
+      "slug": "modal"
+    },
+    {
       "originalTitle": "Modin",
       "componentName": "ModinIcon",
       "slug": "modin"
@@ -8711,11 +8711,6 @@
       "originalTitle": "MODX",
       "componentName": "ModxIcon",
       "slug": "modx"
-    },
-    {
-      "originalTitle": "Mojang Studios",
-      "componentName": "MojangStudiosIcon",
-      "slug": "mojangstudios"
     },
     {
       "originalTitle": "Moleculer",
@@ -8801,6 +8796,11 @@
       "originalTitle": "Moonrepo",
       "componentName": "MoonrepoIcon",
       "slug": "moonrepo"
+    },
+    {
+      "originalTitle": "Moq",
+      "componentName": "MoqIcon",
+      "slug": "moq"
     },
     {
       "originalTitle": "Moqups",
@@ -9208,6 +9208,11 @@
       "slug": "nhl"
     },
     {
+      "originalTitle": "NiceHash",
+      "componentName": "NiceHashIcon",
+      "slug": "nicehash"
+    },
+    {
       "originalTitle": "niconico",
       "componentName": "NiconicoIcon",
       "slug": "niconico"
@@ -9358,6 +9363,11 @@
       "slug": "nsis"
     },
     {
+      "originalTitle": "ntfy",
+      "componentName": "NtfyIcon",
+      "slug": "ntfy"
+    },
+    {
       "originalTitle": "Nubank",
       "componentName": "NubankIcon",
       "slug": "nubank"
@@ -9411,6 +9421,11 @@
       "originalTitle": "NVIDIA",
       "componentName": "NvidiaIcon",
       "slug": "nvidia"
+    },
+    {
+      "originalTitle": "nvm",
+      "componentName": "NvmIcon",
+      "slug": "nvm"
     },
     {
       "originalTitle": "Nx",
@@ -9793,6 +9808,11 @@
       "slug": "org"
     },
     {
+      "originalTitle": "Organic Maps",
+      "componentName": "OrganicMapsIcon",
+      "slug": "organicmaps"
+    },
+    {
       "originalTitle": "Origin",
       "componentName": "OriginIcon",
       "slug": "origin"
@@ -9831,6 +9851,11 @@
       "originalTitle": "Otto",
       "componentName": "OttoIcon",
       "slug": "otto"
+    },
+    {
+      "originalTitle": "Outline",
+      "componentName": "OutlineIcon",
+      "slug": "outline"
     },
     {
       "originalTitle": "Overcast",
@@ -10253,6 +10278,11 @@
       "slug": "picpay"
     },
     {
+      "originalTitle": "Picrew",
+      "componentName": "PicrewIcon",
+      "slug": "picrew"
+    },
+    {
       "originalTitle": "Picxy",
       "componentName": "PicxyIcon",
       "slug": "picxy"
@@ -10276,6 +10306,11 @@
       "originalTitle": "Pingdom",
       "componentName": "PingdomIcon",
       "slug": "pingdom"
+    },
+    {
+      "originalTitle": "pino",
+      "componentName": "PinoIcon",
+      "slug": "pino"
     },
     {
       "originalTitle": "Pinterest",
@@ -10413,14 +10448,14 @@
       "slug": "playstation5"
     },
     {
+      "originalTitle": "PlayStation Portable",
+      "componentName": "PlayStationPortableIcon",
+      "slug": "playstationportable"
+    },
+    {
       "originalTitle": "PlayStation Vita",
       "componentName": "PlayStationVitaIcon",
       "slug": "playstationvita"
-    },
-    {
-      "originalTitle": "Playwright",
-      "componentName": "PlaywrightIcon",
-      "slug": "playwright"
     },
     {
       "originalTitle": "Pleroma",
@@ -10441,6 +10476,11 @@
       "originalTitle": "Plotly",
       "componentName": "PlotlyIcon",
       "slug": "plotly"
+    },
+    {
+      "originalTitle": "Plume",
+      "componentName": "PlumeIcon",
+      "slug": "plume"
     },
     {
       "originalTitle": "Pluralsight",
@@ -10613,44 +10653,9 @@
       "slug": "postmates"
     },
     {
-      "originalTitle": "Power Apps",
-      "componentName": "PowerAppsIcon",
-      "slug": "powerapps"
-    },
-    {
-      "originalTitle": "Power Automate",
-      "componentName": "PowerAutomateIcon",
-      "slug": "powerautomate"
-    },
-    {
-      "originalTitle": "Power BI",
-      "componentName": "PowerBiIcon",
-      "slug": "powerbi"
-    },
-    {
-      "originalTitle": "Power Fx",
-      "componentName": "PowerFxIcon",
-      "slug": "powerfx"
-    },
-    {
-      "originalTitle": "Power Pages",
-      "componentName": "PowerPagesIcon",
-      "slug": "powerpages"
-    },
-    {
-      "originalTitle": "Power Virtual Agents",
-      "componentName": "PowerVirtualAgentsIcon",
-      "slug": "powervirtualagents"
-    },
-    {
       "originalTitle": "POWERS",
       "componentName": "PowersIcon",
       "slug": "powers"
-    },
-    {
-      "originalTitle": "PowerShell",
-      "componentName": "PowerShellIcon",
-      "slug": "powershell"
     },
     {
       "originalTitle": "pr.co",
@@ -10721,6 +10726,16 @@
       "originalTitle": "Prime Video",
       "componentName": "PrimeVideoIcon",
       "slug": "primevideo"
+    },
+    {
+      "originalTitle": "PrimeNG",
+      "componentName": "PrimeNgIcon",
+      "slug": "primeng"
+    },
+    {
+      "originalTitle": "PrimeReact",
+      "componentName": "PrimeReactIcon",
+      "slug": "primereact"
     },
     {
       "originalTitle": "Printables",
@@ -11288,6 +11303,11 @@
       "slug": "razorpay"
     },
     {
+      "originalTitle": "Rclone",
+      "componentName": "RcloneIcon",
+      "slug": "rclone"
+    },
+    {
       "originalTitle": "React",
       "componentName": "ReactIcon",
       "slug": "react"
@@ -11418,6 +11438,11 @@
       "slug": "redox"
     },
     {
+      "originalTitle": "Redsys",
+      "componentName": "RedsysIcon",
+      "slug": "redsys"
+    },
+    {
       "originalTitle": "Redux",
       "componentName": "ReduxIcon",
       "slug": "redux"
@@ -11468,6 +11493,11 @@
       "slug": "remix"
     },
     {
+      "originalTitle": "remove.bg",
+      "componentName": "RemoveDotbgIcon",
+      "slug": "removedotbg"
+    },
+    {
       "originalTitle": "Ren'Py",
       "componentName": "RenpyIcon",
       "slug": "renpy"
@@ -11483,9 +11513,9 @@
       "slug": "render"
     },
     {
-      "originalTitle": "RenovateBot",
-      "componentName": "RenovateBotIcon",
-      "slug": "renovatebot"
+      "originalTitle": "Renovate",
+      "componentName": "RenovateIcon",
+      "slug": "renovate"
     },
     {
       "originalTitle": "Renren",
@@ -11606,6 +11636,11 @@
       "originalTitle": "Rimac Automobili",
       "componentName": "RimacAutomobiliIcon",
       "slug": "rimacautomobili"
+    },
+    {
+      "originalTitle": "Rime",
+      "componentName": "RimeIcon",
+      "slug": "rime"
     },
     {
       "originalTitle": "Ring",
@@ -12488,16 +12523,6 @@
       "slug": "skypack"
     },
     {
-      "originalTitle": "Skype",
-      "componentName": "SkypeIcon",
-      "slug": "skype"
-    },
-    {
-      "originalTitle": "Skype for Business",
-      "componentName": "SkypeForBusinessIcon",
-      "slug": "skypeforbusiness"
-    },
-    {
       "originalTitle": "Skyrock",
       "componentName": "SkyrockIcon",
       "slug": "skyrock"
@@ -12581,6 +12606,11 @@
       "originalTitle": "SNCF",
       "componentName": "SncfIcon",
       "slug": "sncf"
+    },
+    {
+      "originalTitle": "Snort",
+      "componentName": "SnortIcon",
+      "slug": "snort"
     },
     {
       "originalTitle": "Snowflake",
@@ -13248,6 +13278,11 @@
       "slug": "sumologic"
     },
     {
+      "originalTitle": "Suno",
+      "componentName": "SunoIcon",
+      "slug": "suno"
+    },
+    {
       "originalTitle": "Sunrise",
       "componentName": "SunriseIcon",
       "slug": "sunrise"
@@ -13443,6 +13478,11 @@
       "slug": "tailwindcss"
     },
     {
+      "originalTitle": "Taipy",
+      "componentName": "TaipyIcon",
+      "slug": "taipy"
+    },
+    {
       "originalTitle": "Take-Two Interactive Software",
       "componentName": "TaketwointeractivesoftwareIcon",
       "slug": "taketwointeractivesoftware"
@@ -13536,6 +13576,11 @@
       "originalTitle": "TeamViewer",
       "componentName": "TeamViewerIcon",
       "slug": "teamviewer"
+    },
+    {
+      "originalTitle": "TechCrunch",
+      "componentName": "TechCrunchIcon",
+      "slug": "techcrunch"
     },
     {
       "originalTitle": "TED",
@@ -13973,6 +14018,11 @@
       "slug": "tourbox"
     },
     {
+      "originalTitle": "Tower",
+      "componentName": "TowerIcon",
+      "slug": "tower"
+    },
+    {
       "originalTitle": "Toyota",
       "componentName": "ToyotaIcon",
       "slug": "toyota"
@@ -14101,6 +14151,11 @@
       "originalTitle": "Tripadvisor",
       "componentName": "TripadvisorIcon",
       "slug": "tripadvisor"
+    },
+    {
+      "originalTitle": "trivago",
+      "componentName": "TrivagoIcon",
+      "slug": "trivago"
     },
     {
       "originalTitle": "Trivy",
@@ -14241,6 +14296,11 @@
       "originalTitle": "Typeform",
       "componentName": "TypeformIcon",
       "slug": "typeform"
+    },
+    {
+      "originalTitle": "TypeORM",
+      "componentName": "TypeOrmIcon",
+      "slug": "typeorm"
     },
     {
       "originalTitle": "Typer",
@@ -14396,6 +14456,11 @@
       "originalTitle": "Unity",
       "componentName": "UnityIcon",
       "slug": "unity"
+    },
+    {
+      "originalTitle": "UnJS",
+      "componentName": "UnJsIcon",
+      "slug": "unjs"
     },
     {
       "originalTitle": "Unlicense",
@@ -14573,6 +14638,11 @@
       "slug": "veeam"
     },
     {
+      "originalTitle": "VEED",
+      "componentName": "VeedIcon",
+      "slug": "veed"
+    },
+    {
       "originalTitle": "Veepee",
       "componentName": "VeepeeIcon",
       "slug": "veepee"
@@ -14708,24 +14778,9 @@
       "slug": "visa"
     },
     {
-      "originalTitle": "Visual Basic",
-      "componentName": "VisualBasicIcon",
-      "slug": "visualbasic"
-    },
-    {
-      "originalTitle": "Visual Studio",
-      "componentName": "VisualStudioIcon",
-      "slug": "visualstudio"
-    },
-    {
-      "originalTitle": "Visual Studio App Center",
-      "componentName": "VisualStudioAppCenterIcon",
-      "slug": "visualstudioappcenter"
-    },
-    {
-      "originalTitle": "Visual Studio Code",
-      "componentName": "VisualStudioCodeIcon",
-      "slug": "visualstudiocode"
+      "originalTitle": "visx",
+      "componentName": "VisxIcon",
+      "slug": "visx"
     },
     {
       "originalTitle": "Vite",
@@ -14883,6 +14938,11 @@
       "slug": "wacom"
     },
     {
+      "originalTitle": "Wagmi",
+      "componentName": "WagmiIcon",
+      "slug": "wagmi"
+    },
+    {
       "originalTitle": "Wagtail",
       "componentName": "WagtailIcon",
       "slug": "wagtail"
@@ -15028,6 +15088,11 @@
       "slug": "webgl"
     },
     {
+      "originalTitle": "WebGPU",
+      "componentName": "WebGpuIcon",
+      "slug": "webgpu"
+    },
+    {
       "originalTitle": "Weblate",
       "componentName": "WeblateIcon",
       "slug": "weblate"
@@ -15123,6 +15188,11 @@
       "slug": "wezterm"
     },
     {
+      "originalTitle": "wgpu",
+      "componentName": "WgpuIcon",
+      "slug": "wgpu"
+    },
+    {
       "originalTitle": "WhatsApp",
       "componentName": "WhatsAppIcon",
       "slug": "whatsapp"
@@ -15186,36 +15256,6 @@
       "originalTitle": "Winamp",
       "componentName": "WinampIcon",
       "slug": "winamp"
-    },
-    {
-      "originalTitle": "Windows",
-      "componentName": "WindowsIcon",
-      "slug": "windows"
-    },
-    {
-      "originalTitle": "Windows 10",
-      "componentName": "Windows10Icon",
-      "slug": "windows10"
-    },
-    {
-      "originalTitle": "Windows 11",
-      "componentName": "Windows11Icon",
-      "slug": "windows11"
-    },
-    {
-      "originalTitle": "Windows 95",
-      "componentName": "Windows95Icon",
-      "slug": "windows95"
-    },
-    {
-      "originalTitle": "Windows Terminal",
-      "componentName": "WindowsTerminalIcon",
-      "slug": "windowsterminal"
-    },
-    {
-      "originalTitle": "Windows XP",
-      "componentName": "WindowsXpIcon",
-      "slug": "windowsxp"
     },
     {
       "originalTitle": "Wipro",
@@ -15343,6 +15383,11 @@
       "slug": "wwise"
     },
     {
+      "originalTitle": "Wykop",
+      "componentName": "WykopIcon",
+      "slug": "wykop"
+    },
+    {
       "originalTitle": "Wyze",
       "componentName": "WyzeIcon",
       "slug": "wyze"
@@ -15358,24 +15403,9 @@
       "slug": "xdotorg"
     },
     {
-      "originalTitle": "Xamarin",
-      "componentName": "XamarinIcon",
-      "slug": "xamarin"
-    },
-    {
-      "originalTitle": "XAML",
-      "componentName": "XamlIcon",
-      "slug": "xaml"
-    },
-    {
       "originalTitle": "XAMPP",
       "componentName": "XamppIcon",
       "slug": "xampp"
-    },
-    {
-      "originalTitle": "Xbox",
-      "componentName": "XboxIcon",
-      "slug": "xbox"
     },
     {
       "originalTitle": "Xcode",
@@ -15448,6 +15478,11 @@
       "slug": "ycombinator"
     },
     {
+      "originalTitle": "yabai",
+      "componentName": "YabaiIcon",
+      "slug": "yabai"
+    },
+    {
       "originalTitle": "Yale",
       "componentName": "YaleIcon",
       "slug": "yale"
@@ -15466,11 +15501,6 @@
       "originalTitle": "YAML",
       "componentName": "YamlIcon",
       "slug": "yaml"
-    },
-    {
-      "originalTitle": "Yammer",
-      "componentName": "YammerIcon",
-      "slug": "yammer"
     },
     {
       "originalTitle": "Yandex Cloud",
@@ -15541,6 +15571,11 @@
       "originalTitle": "Yubico",
       "componentName": "YubicoIcon",
       "slug": "yubico"
+    },
+    {
+      "originalTitle": "YunoHost",
+      "componentName": "YunoHostIcon",
+      "slug": "yunohost"
     },
     {
       "originalTitle": "Żabka",

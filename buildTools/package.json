@@ -12,10 +12,10 @@
   },
   "dependencies": {
     "change-case": "^5.4.4",
-    "n2words": "^1.20.0",
-    "simple-icons": "12.0.0"
+    "n2words": "^1.21.0",
+    "simple-icons": "13.2.0"
   },
   "devDependencies": {
-    "@biomejs/biome": "1.7.3"
+    "@biomejs/biome": "1.8.3"
   }
 }
