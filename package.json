@@ -1,6 +1,6 @@
 {
   "name": "vue3-simple-icons",
-  "version": "13.2.0",
+  "version": "15.0.0",
   "homepage": "https://vue3-simple-icons.wyatt-herkamp.dev",
   "description": "Simple Icons as Vue components.",
   "repository": {
@@ -9,20 +9,19 @@
   },
   "main": "./dist/vue3-simple-icons.umd.js",
   "module": "./dist/vue3-simple-icons.mjs",
+  "types": "./dist/types/index.d.ts",
   "exports": {
     ".": {
+      "types": "./dist/types/index.d.ts",
       "import": "./dist/vue3-simple-icons.mjs",
-      "require": "./dist/vue3-simple-icons.umd.js",
-      "types": "./dist/types/index.d.ts"
+      "require": "./dist/vue3-simple-icons.umd.js"
     }
   },
-  "types": "./dist/types/index.d.ts",
   "files": [
     "dist"
   ],
   "scripts": {
-    "build": "npm run build:icons && npm run build:dist && npm run build:type",
-    "build:icons": "npm run --prefix buildTools build",
+    "build": "npm run build:dist && npm run build:type",
     "build:dist": "vite build",
     "build:type": "vue-tsc --emitDeclarationOnly"
   },
@@ -31,11 +30,11 @@
     "vue": "^3"
   },
   "devDependencies": {
-    "typescript": "^5.5.3",
-    "@vitejs/plugin-vue": "^5.0.5",
-    "@vue/compiler-sfc": "^3.4.33",
-    "vite": "^5.3.4",
+    "typescript": "^5.8.3",
+    "@vitejs/plugin-vue": "^5.2.4",
+    "@vue/compiler-sfc": "^3.5.16",
+    "vite": "^6.3.5",
     "vue": "^3.2.37",
-    "vue-tsc": "^2.0.28"
+    "vue-tsc": "^2.2.10"
   }
 }
