@@ -1,6 +1,6 @@
 {
-  "builtOn": "2025-06-02T09:38:07.465069194-04:00",
-  "simpleIconsVersion": "15.0.0",
+  "builtOn": "2025-07-19T15:36:28.444122657-04:00",
+  "simpleIconsVersion": "15.6.0",
   "components": [
     {
       "originalTitle": ".ENV",
@@ -178,6 +178,11 @@
       "componentName": "ActiGraphIcon"
     },
     {
+      "originalTitle": "Activeloop",
+      "slug": "activeloop",
+      "componentName": "ActiveloopIcon"
+    },
+    {
       "originalTitle": "Activision",
       "slug": "activision",
       "componentName": "ActivisionIcon"
@@ -203,9 +208,19 @@
       "componentName": "AcuraIcon"
     },
     {
+      "originalTitle": "Ada",
+      "slug": "ada",
+      "componentName": "AdaIcon"
+    },
+    {
       "originalTitle": "Adafruit",
       "slug": "adafruit",
       "componentName": "AdafruitIcon"
+    },
+    {
+      "originalTitle": "AdAway",
+      "slug": "adaway",
+      "componentName": "AdAwayIcon"
     },
     {
       "originalTitle": "AdBlock",
@@ -803,6 +818,11 @@
       "componentName": "ApacheDolphinSchedulerIcon"
     },
     {
+      "originalTitle": "Apache Doris",
+      "slug": "apachedoris",
+      "componentName": "ApacheDorisIcon"
+    },
+    {
       "originalTitle": "Apache Druid",
       "slug": "apachedruid",
       "componentName": "ApacheDruidIcon"
@@ -1358,6 +1378,11 @@
       "componentName": "AviraIcon"
     },
     {
+      "originalTitle": "AVM",
+      "slug": "avm",
+      "componentName": "AvmIcon"
+    },
+    {
       "originalTitle": "Awesome Lists",
       "slug": "awesomelists",
       "componentName": "AwesomeListsIcon"
@@ -1603,6 +1628,11 @@
       "componentName": "BetfairIcon"
     },
     {
+      "originalTitle": "Better Auth",
+      "slug": "betterauth",
+      "componentName": "BetterAuthIcon"
+    },
+    {
       "originalTitle": "Better Stack",
       "slug": "betterstack",
       "componentName": "BetterStackIcon"
@@ -1733,6 +1763,11 @@
       "componentName": "BitwigIcon"
     },
     {
+      "originalTitle": "Black",
+      "slug": "black",
+      "componentName": "BlackIcon"
+    },
+    {
       "originalTitle": "Blackberry",
       "slug": "blackberry",
       "componentName": "BlackberryIcon"
@@ -1858,6 +1893,11 @@
       "componentName": "BookBubIcon"
     },
     {
+      "originalTitle": "Booking.com",
+      "slug": "bookingdotcom",
+      "componentName": "BookingDotcomIcon"
+    },
+    {
       "originalTitle": "Bookmeter",
       "slug": "bookmeter",
       "componentName": "BookmeterIcon"
@@ -1936,6 +1976,11 @@
       "originalTitle": "Braintree",
       "slug": "braintree",
       "componentName": "BraintreeIcon"
+    },
+    {
+      "originalTitle": "Braintrust",
+      "slug": "braintrust",
+      "componentName": "BraintrustIcon"
     },
     {
       "originalTitle": "Brandfetch",
@@ -2071,6 +2116,11 @@
       "originalTitle": "Bungie",
       "slug": "bungie",
       "componentName": "BungieIcon"
+    },
+    {
+      "originalTitle": "bunny.net",
+      "slug": "bunnydotnet",
+      "componentName": "BunnyDotnetIcon"
     },
     {
       "originalTitle": "bunq",
@@ -2236,6 +2286,11 @@
       "originalTitle": "Cardano",
       "slug": "cardano",
       "componentName": "CardanoIcon"
+    },
+    {
+      "originalTitle": "Cardmarket",
+      "slug": "cardmarket",
+      "componentName": "CardmarketIcon"
     },
     {
       "originalTitle": "Carlsberg Group",
@@ -2606,6 +2661,11 @@
       "originalTitle": "Cloud Foundry",
       "slug": "cloudfoundry",
       "componentName": "CloudFoundryIcon"
+    },
+    {
+      "originalTitle": "Cloud Native Build",
+      "slug": "cloudnativebuild",
+      "componentName": "CloudNativeBuildIcon"
     },
     {
       "originalTitle": "CloudBees",
@@ -3728,6 +3788,11 @@
       "componentName": "DiscordIcon"
     },
     {
+      "originalTitle": "discord.js",
+      "slug": "discorddotjs",
+      "componentName": "DiscordDotjsIcon"
+    },
+    {
       "originalTitle": "Discourse",
       "slug": "discourse",
       "componentName": "DiscourseIcon"
@@ -3826,6 +3891,16 @@
       "originalTitle": "Dolby",
       "slug": "dolby",
       "componentName": "DolbyIcon"
+    },
+    {
+      "originalTitle": "Dolibarr",
+      "slug": "dolibarr",
+      "componentName": "DolibarrIcon"
+    },
+    {
+      "originalTitle": "Dolphin",
+      "slug": "dolphin",
+      "componentName": "DolphinIcon"
     },
     {
       "originalTitle": "DoorDash",
@@ -4251,6 +4326,16 @@
       "originalTitle": "Enpass",
       "slug": "enpass",
       "componentName": "EnpassIcon"
+    },
+    {
+      "originalTitle": "ENS",
+      "slug": "ens",
+      "componentName": "EnsIcon"
+    },
+    {
+      "originalTitle": "Ente",
+      "slug": "ente",
+      "componentName": "EnteIcon"
     },
     {
       "originalTitle": "EnterpriseDB",
@@ -4883,6 +4968,11 @@
       "componentName": "FoliumIcon"
     },
     {
+      "originalTitle": "Folo",
+      "slug": "folo",
+      "componentName": "FoloIcon"
+    },
+    {
       "originalTitle": "Fonoma",
       "slug": "fonoma",
       "componentName": "FonomaIcon"
@@ -5081,6 +5171,11 @@
       "originalTitle": "Frigate",
       "slug": "frigate",
       "componentName": "FrigateIcon"
+    },
+    {
+      "originalTitle": "FRITZ!",
+      "slug": "fritz",
+      "componentName": "FritzIcon"
     },
     {
       "originalTitle": "Frontend Mentor",
@@ -5823,6 +5918,11 @@
       "componentName": "GoToMeetingIcon"
     },
     {
+      "originalTitle": "GPLv3",
+      "slug": "gplv3",
+      "componentName": "GpLv3Icon"
+    },
+    {
       "originalTitle": "Grab",
       "slug": "grab",
       "componentName": "GrabIcon"
@@ -6146,6 +6246,11 @@
       "originalTitle": "Haxe",
       "slug": "haxe",
       "componentName": "HaxeIcon"
+    },
+    {
+      "originalTitle": "Haystack",
+      "slug": "haystack",
+      "componentName": "HaystackIcon"
     },
     {
       "originalTitle": "HBO",
@@ -6933,6 +7038,11 @@
       "componentName": "IntuitIcon"
     },
     {
+      "originalTitle": "Invidious",
+      "slug": "invidious",
+      "componentName": "InvidiousIcon"
+    },
+    {
       "originalTitle": "InVision",
       "slug": "invision",
       "componentName": "InVisionIcon"
@@ -7426,6 +7536,11 @@
       "originalTitle": "KeeWeb",
       "slug": "keeweb",
       "componentName": "KeeWebIcon"
+    },
+    {
+      "originalTitle": "Kenmei",
+      "slug": "kenmei",
+      "componentName": "KenmeiIcon"
     },
     {
       "originalTitle": "Kentico",
@@ -8288,6 +8403,11 @@
       "componentName": "LuaIcon"
     },
     {
+      "originalTitle": "Luau",
+      "slug": "luau",
+      "componentName": "LuauIcon"
+    },
+    {
       "originalTitle": "Lubuntu",
       "slug": "lubuntu",
       "componentName": "LubuntuIcon"
@@ -8361,6 +8481,11 @@
       "originalTitle": "MacPaw",
       "slug": "macpaw",
       "componentName": "MacPawIcon"
+    },
+    {
+      "originalTitle": "MacPorts",
+      "slug": "macports",
+      "componentName": "MacPortsIcon"
     },
     {
       "originalTitle": "Macy's",
@@ -8818,6 +8943,11 @@
       "componentName": "MeWeIcon"
     },
     {
+      "originalTitle": "Mezmo",
+      "slug": "mezmo",
+      "componentName": "MezmoIcon"
+    },
+    {
       "originalTitle": "MG",
       "slug": "mg",
       "componentName": "MgIcon"
@@ -8938,6 +9068,11 @@
       "componentName": "MisskeyIcon"
     },
     {
+      "originalTitle": "Mistral AI",
+      "slug": "mistralai",
+      "componentName": "MistralAiIcon"
+    },
+    {
       "originalTitle": "Mitsubishi",
       "slug": "mitsubishi",
       "componentName": "MitsubishiIcon"
@@ -8991,6 +9126,11 @@
       "originalTitle": "Modal",
       "slug": "modal",
       "componentName": "ModalIcon"
+    },
+    {
+      "originalTitle": "Model Context Protocol",
+      "slug": "modelcontextprotocol",
+      "componentName": "ModelContextProtocolIcon"
     },
     {
       "originalTitle": "Modin",
@@ -9236,6 +9376,11 @@
       "originalTitle": "MYOB",
       "slug": "myob",
       "componentName": "MyobIcon"
+    },
+    {
+      "originalTitle": "MyShows",
+      "slug": "myshows",
+      "componentName": "MyShowsIcon"
     },
     {
       "originalTitle": "Myspace",
@@ -9488,6 +9633,11 @@
       "componentName": "NextDotjsIcon"
     },
     {
+      "originalTitle": "nextbike",
+      "slug": "nextbike",
+      "componentName": "NextbikeIcon"
+    },
+    {
       "originalTitle": "NextBillion.ai",
       "slug": "nextbilliondotai",
       "componentName": "NextBillionDotaiIcon"
@@ -9611,6 +9761,11 @@
       "originalTitle": "Node.js",
       "slug": "nodedotjs",
       "componentName": "NodeDotjsIcon"
+    },
+    {
+      "originalTitle": "NodeBB",
+      "slug": "nodebb",
+      "componentName": "NodeBbIcon"
     },
     {
       "originalTitle": "Nodemon",
@@ -10163,9 +10318,9 @@
       "componentName": "OperaGxIcon"
     },
     {
-      "originalTitle": "OPNSense",
+      "originalTitle": "OPNsense",
       "slug": "opnsense",
-      "componentName": "OpnSenseIcon"
+      "componentName": "OpNsenseIcon"
     },
     {
       "originalTitle": "OPPO",
@@ -10333,6 +10488,11 @@
       "componentName": "PaddyPowerIcon"
     },
     {
+      "originalTitle": "Padlet",
+      "slug": "padlet",
+      "componentName": "PadletIcon"
+    },
+    {
       "originalTitle": "Pagekit",
       "slug": "pagekit",
       "componentName": "PagekitIcon"
@@ -10443,6 +10603,11 @@
       "componentName": "PatreonIcon"
     },
     {
+      "originalTitle": "PAYBACK",
+      "slug": "payback",
+      "componentName": "PaybackIcon"
+    },
+    {
       "originalTitle": "Paychex",
       "slug": "paychex",
       "componentName": "PaychexIcon"
@@ -10466,6 +10631,11 @@
       "originalTitle": "PayPal",
       "slug": "paypal",
       "componentName": "PayPalIcon"
+    },
+    {
+      "originalTitle": "Paysafe",
+      "slug": "paysafe",
+      "componentName": "PaysafeIcon"
     },
     {
       "originalTitle": "Paytm",
@@ -11483,6 +11653,11 @@
       "componentName": "QnapIcon"
     },
     {
+      "originalTitle": "Qodo",
+      "slug": "qodo",
+      "componentName": "QodoIcon"
+    },
+    {
       "originalTitle": "QQ",
       "slug": "qq",
       "componentName": "QqIcon"
@@ -12028,6 +12203,11 @@
       "componentName": "RevealDotjsIcon"
     },
     {
+      "originalTitle": "RevenueCat",
+      "slug": "revenuecat",
+      "componentName": "RevenueCatIcon"
+    },
+    {
       "originalTitle": "ReverbNation",
       "slug": "reverbnation",
       "componentName": "ReverbNationIcon"
@@ -12186,6 +12366,11 @@
       "originalTitle": "Roll20",
       "slug": "roll20",
       "componentName": "Roll20Icon"
+    },
+    {
+      "originalTitle": "Rollbar",
+      "slug": "rollbar",
+      "componentName": "RollbarIcon"
     },
     {
       "originalTitle": "Rolls-Royce",
@@ -14478,6 +14663,11 @@
       "componentName": "TogglTrackIcon"
     },
     {
+      "originalTitle": "Tokio",
+      "slug": "tokio",
+      "componentName": "TokioIcon"
+    },
+    {
       "originalTitle": "Tokyo Metro",
       "slug": "tokyometro",
       "componentName": "TokyoMetroIcon"
@@ -14806,6 +14996,11 @@
       "originalTitle": "Tuta",
       "slug": "tuta",
       "componentName": "TutaIcon"
+    },
+    {
+      "originalTitle": "TUXEDO Computers",
+      "slug": "tuxedocomputers",
+      "componentName": "TuxedoComputersIcon"
     },
     {
       "originalTitle": "TV Time",
@@ -15173,6 +15368,11 @@
       "componentName": "ValveIcon"
     },
     {
+      "originalTitle": "Vanilla Extract",
+      "slug": "vanillaextract",
+      "componentName": "VanillaExtractIcon"
+    },
+    {
       "originalTitle": "Vapor",
       "slug": "vapor",
       "componentName": "VaporIcon"
@@ -15326,6 +15526,11 @@
       "originalTitle": "Victron Energy",
       "slug": "victronenergy",
       "componentName": "VictronEnergyIcon"
+    },
+    {
+      "originalTitle": "Vikunja",
+      "slug": "vikunja",
+      "componentName": "VikunjaIcon"
     },
     {
       "originalTitle": "Vim",
@@ -15808,6 +16013,11 @@
       "componentName": "WgpuIcon"
     },
     {
+      "originalTitle": "what3words",
+      "slug": "what3words",
+      "componentName": "What3wordsIcon"
+    },
+    {
       "originalTitle": "WhatsApp",
       "slug": "whatsapp",
       "componentName": "WhatsAppIcon"
@@ -16126,6 +16336,11 @@
       "originalTitle": "Y Combinator",
       "slug": "ycombinator",
       "componentName": "YCombinatorIcon"
+    },
+    {
+      "originalTitle": "Yaak",
+      "slug": "yaak",
+      "componentName": "YaakIcon"
     },
     {
       "originalTitle": "yabai",

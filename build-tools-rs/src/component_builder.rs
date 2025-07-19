@@ -2,6 +2,7 @@ use edit_xml::{Document, EditXMLError, ReadOptions, WriteOptions};
 use thiserror::Error;
 
 static COMPONENT_SCRIPT: &str = include_str!("../template.vue");
+pub static COMPONENT_TYPE_DECLARATION: &str = include_str!("../template.vue.d.ts");
 #[derive(Debug, Error)]
 pub enum ComponentBuilderError {
     #[error(transparent)]
