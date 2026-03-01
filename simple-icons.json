@@ -1,6 +1,6 @@
 {
-  "builtOn": "2025-07-19T15:36:28.444122657-04:00",
-  "simpleIconsVersion": "15.6.0",
+  "builtOn": "2026-03-01T10:45:46.360632360-05:00",
+  "simpleIconsVersion": "16.10.0",
   "components": [
     {
       "originalTitle": ".ENV",
@@ -128,7 +128,7 @@
       "componentName": "AbbvieIcon"
     },
     {
-      "originalTitle": "About.me",
+      "originalTitle": "about.me",
       "slug": "aboutdotme",
       "componentName": "AboutDotmeIcon"
     },
@@ -171,6 +171,11 @@
       "originalTitle": "ACM",
       "slug": "acm",
       "componentName": "AcmIcon"
+    },
+    {
+      "originalTitle": "Acode",
+      "slug": "acode",
+      "componentName": "AcodeIcon"
     },
     {
       "originalTitle": "ActiGraph",
@@ -283,11 +288,6 @@
       "componentName": "AegisAuthenticatorIcon"
     },
     {
-      "originalTitle": "Aer Lingus",
-      "slug": "aerlingus",
-      "componentName": "AerLingusIcon"
-    },
-    {
       "originalTitle": "Aeroflot",
       "slug": "aeroflot",
       "componentName": "AeroflotIcon"
@@ -298,16 +298,6 @@
       "componentName": "AeroméxicoIcon"
     },
     {
-      "originalTitle": "Aerospike",
-      "slug": "aerospike",
-      "componentName": "AerospikeIcon"
-    },
-    {
-      "originalTitle": "AEW",
-      "slug": "aew",
-      "componentName": "AewIcon"
-    },
-    {
       "originalTitle": "AFDIAN",
       "slug": "afdian",
       "componentName": "AfdianIcon"
@@ -316,26 +306,6 @@
       "originalTitle": "AFFiNE",
       "slug": "affine",
       "componentName": "AfFiNeIcon"
-    },
-    {
-      "originalTitle": "Affinity",
-      "slug": "affinity",
-      "componentName": "AffinityIcon"
-    },
-    {
-      "originalTitle": "Affinity Designer",
-      "slug": "affinitydesigner",
-      "componentName": "AffinityDesignerIcon"
-    },
-    {
-      "originalTitle": "Affinity Photo",
-      "slug": "affinityphoto",
-      "componentName": "AffinityPhotoIcon"
-    },
-    {
-      "originalTitle": "Affinity Publisher",
-      "slug": "affinitypublisher",
-      "componentName": "AffinityPublisherIcon"
     },
     {
       "originalTitle": "Afterpay",
@@ -513,11 +483,6 @@
       "componentName": "AldiSüdIcon"
     },
     {
-      "originalTitle": "Alfa Romeo",
-      "slug": "alfaromeo",
-      "componentName": "AlfaRomeoIcon"
-    },
-    {
       "originalTitle": "Alfred",
       "slug": "alfred",
       "componentName": "AlfredIcon"
@@ -573,11 +538,6 @@
       "componentName": "AlliedModdersIcon"
     },
     {
-      "originalTitle": "AlloCiné",
-      "slug": "allocine",
-      "componentName": "AlloCinéIcon"
-    },
-    {
       "originalTitle": "AllTrails",
       "slug": "alltrails",
       "componentName": "AllTrailsIcon"
@@ -603,24 +563,9 @@
       "componentName": "AlternativeToIcon"
     },
     {
-      "originalTitle": "Alteryx",
-      "slug": "alteryx",
-      "componentName": "AlteryxIcon"
-    },
-    {
-      "originalTitle": "Altium Designer",
-      "slug": "altiumdesigner",
-      "componentName": "AltiumDesignerIcon"
-    },
-    {
       "originalTitle": "Alwaysdata",
       "slug": "alwaysdata",
       "componentName": "AlwaysdataIcon"
-    },
-    {
-      "originalTitle": "ALX",
-      "slug": "alx",
-      "componentName": "AlxIcon"
     },
     {
       "originalTitle": "AMD",
@@ -698,6 +643,11 @@
       "componentName": "AngularIcon"
     },
     {
+      "originalTitle": "AniChart",
+      "slug": "anichart",
+      "componentName": "AniChartIcon"
+    },
+    {
       "originalTitle": "AniList",
       "slug": "anilist",
       "componentName": "AniListIcon"
@@ -706,6 +656,11 @@
       "originalTitle": "Animal Planet",
       "slug": "animalplanet",
       "componentName": "AnimalPlanetIcon"
+    },
+    {
+      "originalTitle": "Anime.js",
+      "slug": "animedotjs",
+      "componentName": "AnimeDotjsIcon"
     },
     {
       "originalTitle": "AnkerMake",
@@ -791,6 +746,11 @@
       "originalTitle": "Apache Ant",
       "slug": "apacheant",
       "componentName": "ApacheAntIcon"
+    },
+    {
+      "originalTitle": "Apache Avro",
+      "slug": "apacheavro",
+      "componentName": "ApacheAvroIcon"
     },
     {
       "originalTitle": "Apache Cassandra",
@@ -913,6 +873,11 @@
       "componentName": "ApacheParquetIcon"
     },
     {
+      "originalTitle": "Apache PDFBox",
+      "slug": "apachepdfbox",
+      "componentName": "ApachePdfBoxIcon"
+    },
+    {
       "originalTitle": "Apache Pulsar",
       "slug": "apachepulsar",
       "componentName": "ApachePulsarIcon"
@@ -988,6 +953,11 @@
       "componentName": "AppianIcon"
     },
     {
+      "originalTitle": "AppImage",
+      "slug": "appimage",
+      "componentName": "AppImageIcon"
+    },
+    {
       "originalTitle": "Appium",
       "slug": "appium",
       "componentName": "AppiumIcon"
@@ -1026,6 +996,11 @@
       "originalTitle": "Apple TV",
       "slug": "appletv",
       "componentName": "AppleTvIcon"
+    },
+    {
+      "originalTitle": "AppManager",
+      "slug": "appmanager",
+      "componentName": "AppManagerIcon"
     },
     {
       "originalTitle": "AppSignal",
@@ -1288,6 +1263,11 @@
       "componentName": "AureliaIcon"
     },
     {
+      "originalTitle": "Autentique",
+      "slug": "autentique",
+      "componentName": "AutentiqueIcon"
+    },
+    {
       "originalTitle": "Auth0",
       "slug": "auth0",
       "componentName": "Auth0Icon"
@@ -1301,11 +1281,6 @@
       "originalTitle": "Authentik",
       "slug": "authentik",
       "componentName": "AuthentikIcon"
-    },
-    {
-      "originalTitle": "Authy",
-      "slug": "authy",
-      "componentName": "AuthyIcon"
     },
     {
       "originalTitle": "AutoCAD",
@@ -1363,6 +1338,11 @@
       "componentName": "AvajsIcon"
     },
     {
+      "originalTitle": "AvaloniaUI",
+      "slug": "avaloniaui",
+      "componentName": "AvaloniaUiIcon"
+    },
+    {
       "originalTitle": "Avast",
       "slug": "avast",
       "componentName": "AvastIcon"
@@ -1411,6 +1391,11 @@
       "originalTitle": "B&R Automation",
       "slug": "bandrautomation",
       "componentName": "BAndRAutomationIcon"
+    },
+    {
+      "originalTitle": "B4X",
+      "slug": "b4x",
+      "componentName": "B4xIcon"
     },
     {
       "originalTitle": "Babel",
@@ -1516,6 +1501,11 @@
       "originalTitle": "Barmenia",
       "slug": "barmenia",
       "componentName": "BarmeniaIcon"
+    },
+    {
+      "originalTitle": "Base UI",
+      "slug": "baseui",
+      "componentName": "BaseUiIcon"
     },
     {
       "originalTitle": "Basecamp",
@@ -1693,6 +1683,11 @@
       "componentName": "BioLinkIcon"
     },
     {
+      "originalTitle": "Bioconductor",
+      "slug": "bioconductor",
+      "componentName": "BioconductorIcon"
+    },
+    {
       "originalTitle": "Biome",
       "slug": "biome",
       "componentName": "BiomeIcon"
@@ -1746,6 +1741,11 @@
       "originalTitle": "Bitrise",
       "slug": "bitrise",
       "componentName": "BitriseIcon"
+    },
+    {
+      "originalTitle": "Bitsy",
+      "slug": "bitsy",
+      "componentName": "BitsyIcon"
     },
     {
       "originalTitle": "BitTorrent",
@@ -2258,11 +2258,6 @@
       "componentName": "CanonicalIcon"
     },
     {
-      "originalTitle": "Canva",
-      "slug": "canva",
-      "componentName": "CanvaIcon"
-    },
-    {
       "originalTitle": "Canvas",
       "slug": "canvas",
       "componentName": "CanvasIcon"
@@ -2506,6 +2501,11 @@
       "originalTitle": "China Eastern Airlines",
       "slug": "chinaeasternairlines",
       "componentName": "ChinaEasternAirlinesIcon"
+    },
+    {
+      "originalTitle": "China Railway",
+      "slug": "chinarailway",
+      "componentName": "ChinaRailwayIcon"
     },
     {
       "originalTitle": "China Southern Airlines",
@@ -2883,11 +2883,6 @@
       "componentName": "CodeNewbieIcon"
     },
     {
-      "originalTitle": "CodePen",
-      "slug": "codepen",
-      "componentName": "CodePenIcon"
-    },
-    {
       "originalTitle": "CodeProject",
       "slug": "codeproject",
       "componentName": "CodeProjectIcon"
@@ -2961,11 +2956,6 @@
       "originalTitle": "Coggle",
       "slug": "coggle",
       "componentName": "CoggleIcon"
-    },
-    {
-      "originalTitle": "Cognizant",
-      "slug": "cognizant",
-      "componentName": "CognizantIcon"
     },
     {
       "originalTitle": "Coinbase",
@@ -3123,6 +3113,11 @@
       "componentName": "ConvertioIcon"
     },
     {
+      "originalTitle": "Convex",
+      "slug": "convex",
+      "componentName": "ConvexIcon"
+    },
+    {
       "originalTitle": "Cookiecutter",
       "slug": "cookiecutter",
       "componentName": "CookiecutterIcon"
@@ -3131,6 +3126,11 @@
       "originalTitle": "Cooler Master",
       "slug": "coolermaster",
       "componentName": "CoolerMasterIcon"
+    },
+    {
+      "originalTitle": "Coolify",
+      "slug": "coolify",
+      "componentName": "CoolifyIcon"
     },
     {
       "originalTitle": "Copa Airlines",
@@ -3146,6 +3146,11 @@
       "originalTitle": "Cora",
       "slug": "cora",
       "componentName": "CoraIcon"
+    },
+    {
+      "originalTitle": "Coreboot",
+      "slug": "coreboot",
+      "componentName": "CorebootIcon"
     },
     {
       "originalTitle": "CorelDRAW",
@@ -3358,6 +3363,11 @@
       "componentName": "CurseForgeIcon"
     },
     {
+      "originalTitle": "Cursor",
+      "slug": "cursor",
+      "componentName": "CursorIcon"
+    },
+    {
       "originalTitle": "Custom Ink",
       "slug": "customink",
       "componentName": "CustomInkIcon"
@@ -3423,7 +3433,7 @@
       "componentName": "DailymotionIcon"
     },
     {
-      "originalTitle": "DaisyUI",
+      "originalTitle": "daisyUI",
       "slug": "daisyui",
       "componentName": "DaisyUiIcon"
     },
@@ -3456,6 +3466,11 @@
       "originalTitle": "Dash",
       "slug": "dash",
       "componentName": "DashIcon"
+    },
+    {
+      "originalTitle": "Dash0",
+      "slug": "dash0",
+      "componentName": "Dash0Icon"
     },
     {
       "originalTitle": "Dashlane",
@@ -3553,11 +3568,6 @@
       "componentName": "DblpIcon"
     },
     {
-      "originalTitle": "dbt",
-      "slug": "dbt",
-      "componentName": "DbtIcon"
-    },
-    {
       "originalTitle": "DC Entertainment",
       "slug": "dcentertainment",
       "componentName": "DcEntertainmentIcon"
@@ -3608,9 +3618,19 @@
       "componentName": "DeepLIcon"
     },
     {
+      "originalTitle": "DeepMind",
+      "slug": "deepmind",
+      "componentName": "DeepMindIcon"
+    },
+    {
       "originalTitle": "Deepnote",
       "slug": "deepnote",
       "componentName": "DeepnoteIcon"
+    },
+    {
+      "originalTitle": "Deezer",
+      "slug": "deezer",
+      "componentName": "DeezerIcon"
     },
     {
       "originalTitle": "Deliveroo",
@@ -3641,6 +3661,11 @@
       "originalTitle": "Deno",
       "slug": "deno",
       "componentName": "DenoIcon"
+    },
+    {
+      "originalTitle": "Deno Deploy",
+      "slug": "denodeploy",
+      "componentName": "DenoDeployIcon"
     },
     {
       "originalTitle": "Denon",
@@ -3698,6 +3723,11 @@
       "componentName": "DevboxIcon"
     },
     {
+      "originalTitle": "Development Containers",
+      "slug": "developmentcontainers",
+      "componentName": "DevelopmentContainersIcon"
+    },
+    {
       "originalTitle": "DevExpress",
       "slug": "devexpress",
       "componentName": "DevExpressIcon"
@@ -3716,6 +3746,11 @@
       "originalTitle": "devRant",
       "slug": "devrant",
       "componentName": "DevRantIcon"
+    },
+    {
+      "originalTitle": "Devuan",
+      "slug": "devuan",
+      "componentName": "DevuanIcon"
     },
     {
       "originalTitle": "Dgraph",
@@ -3876,6 +3911,11 @@
       "originalTitle": "Docusaurus",
       "slug": "docusaurus",
       "componentName": "DocusaurusIcon"
+    },
+    {
+      "originalTitle": "Dodo Payments",
+      "slug": "dodopayments",
+      "componentName": "DodoPaymentsIcon"
     },
     {
       "originalTitle": "Dogecoin",
@@ -4173,6 +4213,11 @@
       "componentName": "EdXIcon"
     },
     {
+      "originalTitle": "Effect",
+      "slug": "effect",
+      "componentName": "EffectIcon"
+    },
+    {
       "originalTitle": "egghead",
       "slug": "egghead",
       "componentName": "EggheadIcon"
@@ -4276,6 +4321,11 @@
       "originalTitle": "Elixir",
       "slug": "elixir",
       "componentName": "ElixirIcon"
+    },
+    {
+      "originalTitle": "Elk",
+      "slug": "elk",
+      "componentName": "ElkIcon"
     },
     {
       "originalTitle": "Elm",
@@ -4783,6 +4833,11 @@
       "componentName": "FileZillaIcon"
     },
     {
+      "originalTitle": "Fillout",
+      "slug": "fillout",
+      "componentName": "FilloutIcon"
+    },
+    {
       "originalTitle": "Fineco",
       "slug": "fineco",
       "componentName": "FinecoIcon"
@@ -4831,6 +4886,11 @@
       "originalTitle": "FIRST",
       "slug": "first",
       "componentName": "FirstIcon"
+    },
+    {
+      "originalTitle": "Fish Audio",
+      "slug": "fishaudio",
+      "componentName": "FishAudioIcon"
     },
     {
       "originalTitle": "fish shell",
@@ -4898,11 +4958,6 @@
       "componentName": "FlipboardIcon"
     },
     {
-      "originalTitle": "Flipkart",
-      "slug": "flipkart",
-      "componentName": "FlipkartIcon"
-    },
-    {
       "originalTitle": "Floatplane",
       "slug": "floatplane",
       "componentName": "FloatplaneIcon"
@@ -4916,6 +4971,11 @@
       "originalTitle": "Floorp",
       "slug": "floorp",
       "componentName": "FloorpIcon"
+    },
+    {
+      "originalTitle": "Flower",
+      "slug": "flower",
+      "componentName": "FlowerIcon"
     },
     {
       "originalTitle": "Fluent Bit",
@@ -5168,6 +5228,11 @@
       "componentName": "FreshIcon"
     },
     {
+      "originalTitle": "FreshRSS",
+      "slug": "freshrss",
+      "componentName": "FreshRssIcon"
+    },
+    {
       "originalTitle": "Frigate",
       "slug": "frigate",
       "componentName": "FrigateIcon"
@@ -5298,6 +5363,11 @@
       "componentName": "GarminIcon"
     },
     {
+      "originalTitle": "Garuda Linux",
+      "slug": "garudalinux",
+      "componentName": "GarudaLinuxIcon"
+    },
+    {
       "originalTitle": "Gatling",
       "slug": "gatling",
       "componentName": "GatlingIcon"
@@ -5378,6 +5448,16 @@
       "componentName": "GhosteryIcon"
     },
     {
+      "originalTitle": "Ghostfolio",
+      "slug": "ghostfolio",
+      "componentName": "GhostfolioIcon"
+    },
+    {
+      "originalTitle": "Ghostty",
+      "slug": "ghostty",
+      "componentName": "GhosttyIcon"
+    },
+    {
       "originalTitle": "GIMP",
       "slug": "gimp",
       "componentName": "GimpIcon"
@@ -5416,6 +5496,11 @@
       "originalTitle": "GitBook",
       "slug": "gitbook",
       "componentName": "GitBookIcon"
+    },
+    {
+      "originalTitle": "GitCode",
+      "slug": "gitcode",
+      "componentName": "GitCodeIcon"
     },
     {
       "originalTitle": "Gitconnected",
@@ -5486,6 +5571,11 @@
       "originalTitle": "GL.iNet",
       "slug": "gldotinet",
       "componentName": "GlDotiNetIcon"
+    },
+    {
+      "originalTitle": "Glance",
+      "slug": "glance",
+      "componentName": "GlanceIcon"
     },
     {
       "originalTitle": "Glassdoor",
@@ -5778,11 +5868,6 @@
       "componentName": "GoogleEarthEngineIcon"
     },
     {
-      "originalTitle": "Google Fit",
-      "slug": "googlefit",
-      "componentName": "GoogleFitIcon"
-    },
-    {
       "originalTitle": "Google Fonts",
       "slug": "googlefonts",
       "componentName": "GoogleFontsIcon"
@@ -5801,6 +5886,11 @@
       "originalTitle": "Google Home",
       "slug": "googlehome",
       "componentName": "GoogleHomeIcon"
+    },
+    {
+      "originalTitle": "Google Jules",
+      "slug": "googlejules",
+      "componentName": "GoogleJulesIcon"
     },
     {
       "originalTitle": "Google Keep",
@@ -5968,6 +6058,11 @@
       "componentName": "GraphiteIcon"
     },
     {
+      "originalTitle": "Graphite",
+      "slug": "graphite_editor",
+      "componentName": "GraphiteEditorIcon"
+    },
+    {
       "originalTitle": "GraphQL",
       "slug": "graphql",
       "componentName": "GraphQlIcon"
@@ -6008,6 +6103,11 @@
       "componentName": "GreenSockIcon"
     },
     {
+      "originalTitle": "GreptimeDB",
+      "slug": "greptimedb",
+      "componentName": "GreptimeDbIcon"
+    },
+    {
       "originalTitle": "Grid.ai",
       "slug": "griddotai",
       "componentName": "GridDotaiIcon"
@@ -6036,6 +6136,11 @@
       "originalTitle": "Grunt",
       "slug": "grunt",
       "componentName": "GruntIcon"
+    },
+    {
+      "originalTitle": "GSAP",
+      "slug": "gsap",
+      "componentName": "GsapIcon"
     },
     {
       "originalTitle": "GSK",
@@ -6168,6 +6273,11 @@
       "componentName": "HackerRankIcon"
     },
     {
+      "originalTitle": "HackMD",
+      "slug": "hackmd",
+      "componentName": "HackMdIcon"
+    },
+    {
       "originalTitle": "Hackster",
       "slug": "hackster",
       "componentName": "HacksterIcon"
@@ -6206,6 +6316,11 @@
       "originalTitle": "HarmonyOS",
       "slug": "harmonyos",
       "componentName": "HarmonyOsIcon"
+    },
+    {
+      "originalTitle": "Hashcat",
+      "slug": "hashcat",
+      "componentName": "HashcatIcon"
     },
     {
       "originalTitle": "HashiCorp",
@@ -6361,11 +6476,6 @@
       "originalTitle": "Heroic Games Launcher",
       "slug": "heroicgameslauncher",
       "componentName": "HeroicGamesLauncherIcon"
-    },
-    {
-      "originalTitle": "Heroku",
-      "slug": "heroku",
-      "componentName": "HerokuIcon"
     },
     {
       "originalTitle": "HeroUI",
@@ -6798,6 +6908,11 @@
       "componentName": "ILovePdfIcon"
     },
     {
+      "originalTitle": "Image Toolbox",
+      "slug": "imagetoolbox",
+      "componentName": "ImageToolboxIcon"
+    },
+    {
       "originalTitle": "Image.sc",
       "slug": "imagedotsc",
       "componentName": "ImageDotscIcon"
@@ -6828,6 +6943,11 @@
       "componentName": "ImmerIcon"
     },
     {
+      "originalTitle": "Immersive Translate",
+      "slug": "immersivetranslate",
+      "componentName": "ImmersiveTranslateIcon"
+    },
+    {
       "originalTitle": "Immich",
       "slug": "immich",
       "componentName": "ImmichIcon"
@@ -6856,6 +6976,11 @@
       "originalTitle": "Indie Hackers",
       "slug": "indiehackers",
       "componentName": "IndieHackersIcon"
+    },
+    {
+      "originalTitle": "IndieWeb",
+      "slug": "indieweb",
+      "componentName": "IndieWebIcon"
     },
     {
       "originalTitle": "IndiGo",
@@ -6898,11 +7023,6 @@
       "componentName": "InfoQIcon"
     },
     {
-      "originalTitle": "Informatica",
-      "slug": "informatica",
-      "componentName": "InformaticaIcon"
-    },
-    {
       "originalTitle": "Infosys",
       "slug": "infosys",
       "componentName": "InfosysIcon"
@@ -6911,6 +7031,11 @@
       "originalTitle": "Infracost",
       "slug": "infracost",
       "componentName": "InfracostIcon"
+    },
+    {
+      "originalTitle": "Infuse",
+      "slug": "infuse",
+      "componentName": "InfuseIcon"
     },
     {
       "originalTitle": "Ingress",
@@ -7043,11 +7168,6 @@
       "componentName": "InvidiousIcon"
     },
     {
-      "originalTitle": "InVision",
-      "slug": "invision",
-      "componentName": "InVisionIcon"
-    },
-    {
       "originalTitle": "Invoice Ninja",
       "slug": "invoiceninja",
       "componentName": "InvoiceNinjaIcon"
@@ -7146,11 +7266,6 @@
       "originalTitle": "Jaeger",
       "slug": "jaeger",
       "componentName": "JaegerIcon"
-    },
-    {
-      "originalTitle": "Jaguar",
-      "slug": "jaguar",
-      "componentName": "JaguarIcon"
     },
     {
       "originalTitle": "Jameson",
@@ -7393,6 +7508,11 @@
       "componentName": "JupyterIcon"
     },
     {
+      "originalTitle": "Just",
+      "slug": "just",
+      "componentName": "JustIcon"
+    },
+    {
       "originalTitle": "Just Eat",
       "slug": "justeat",
       "componentName": "JustEatIcon"
@@ -7453,9 +7573,19 @@
       "componentName": "KamailioIcon"
     },
     {
+      "originalTitle": "Kando",
+      "slug": "kando",
+      "componentName": "KandoIcon"
+    },
+    {
       "originalTitle": "Kaniko",
       "slug": "kaniko",
       "componentName": "KanikoIcon"
+    },
+    {
+      "originalTitle": "Karakeep",
+      "slug": "karakeep",
+      "componentName": "KarakeepIcon"
     },
     {
       "originalTitle": "Karlsruher Verkehrsverbund",
@@ -7546,6 +7676,11 @@
       "originalTitle": "Kentico",
       "slug": "kentico",
       "componentName": "KenticoIcon"
+    },
+    {
+      "originalTitle": "Keploy",
+      "slug": "keploy",
+      "componentName": "KeployIcon"
     },
     {
       "originalTitle": "Keras",
@@ -7728,6 +7863,11 @@
       "componentName": "KodiIcon"
     },
     {
+      "originalTitle": "Kodular",
+      "slug": "kodular",
+      "componentName": "KodularIcon"
+    },
+    {
       "originalTitle": "Koenigsegg",
       "slug": "koenigsegg",
       "componentName": "KoenigseggIcon"
@@ -7858,6 +7998,11 @@
       "componentName": "LÉquipeIcon"
     },
     {
+      "originalTitle": "LabEx",
+      "slug": "labex",
+      "componentName": "LabExIcon"
+    },
+    {
       "originalTitle": "LabVIEW",
       "slug": "labview",
       "componentName": "LabViewIcon"
@@ -7871,11 +8016,6 @@
       "originalTitle": "Lamborghini",
       "slug": "lamborghini",
       "componentName": "LamborghiniIcon"
-    },
-    {
-      "originalTitle": "Land Rover",
-      "slug": "landrover",
-      "componentName": "LandRoverIcon"
     },
     {
       "originalTitle": "LangChain",
@@ -8213,6 +8353,11 @@
       "componentName": "LinktreeIcon"
     },
     {
+      "originalTitle": "Linkvertise",
+      "slug": "linkvertise",
+      "componentName": "LinkvertiseIcon"
+    },
+    {
       "originalTitle": "Linphone",
       "slug": "linphone",
       "componentName": "LinphoneIcon"
@@ -8263,6 +8408,11 @@
       "componentName": "LiquibaseIcon"
     },
     {
+      "originalTitle": "ListenHub",
+      "slug": "listenhub",
+      "componentName": "ListenHubIcon"
+    },
+    {
       "originalTitle": "listmonk",
       "slug": "listmonk",
       "componentName": "ListmonkIcon"
@@ -8298,6 +8448,11 @@
       "componentName": "LiveJournalIcon"
     },
     {
+      "originalTitle": "LiveKit",
+      "slug": "livekit",
+      "componentName": "LiveKitIcon"
+    },
+    {
       "originalTitle": "Livewire",
       "slug": "livewire",
       "componentName": "LivewireIcon"
@@ -8323,19 +8478,19 @@
       "componentName": "LocalIcon"
     },
     {
+      "originalTitle": "LocalSend",
+      "slug": "localsend",
+      "componentName": "LocalSendIcon"
+    },
+    {
+      "originalTitle": "LocalXpose",
+      "slug": "localxpose",
+      "componentName": "LocalXposeIcon"
+    },
+    {
       "originalTitle": "Lodash",
       "slug": "lodash",
       "componentName": "LodashIcon"
-    },
-    {
-      "originalTitle": "Logitech",
-      "slug": "logitech",
-      "componentName": "LogitechIcon"
-    },
-    {
-      "originalTitle": "Logitech G",
-      "slug": "logitechg",
-      "componentName": "LogitechGIcon"
     },
     {
       "originalTitle": "LogMeIn",
@@ -8373,6 +8528,11 @@
       "componentName": "LoopBackIcon"
     },
     {
+      "originalTitle": "Loops",
+      "slug": "loops",
+      "componentName": "LoopsIcon"
+    },
+    {
       "originalTitle": "Loot Crate",
       "slug": "lootcrate",
       "componentName": "LootCrateIcon"
@@ -8401,6 +8561,11 @@
       "originalTitle": "Lua",
       "slug": "lua",
       "componentName": "LuaIcon"
+    },
+    {
+      "originalTitle": "Luanti",
+      "slug": "luanti",
+      "componentName": "LuantiIcon"
     },
     {
       "originalTitle": "Luau",
@@ -8446,6 +8611,11 @@
       "originalTitle": "Lunacy",
       "slug": "lunacy",
       "componentName": "LunacyIcon"
+    },
+    {
+      "originalTitle": "Luogu",
+      "slug": "luogu",
+      "componentName": "LuoguIcon"
     },
     {
       "originalTitle": "Lutris",
@@ -8523,9 +8693,9 @@
       "componentName": "MailDotRuIcon"
     },
     {
-      "originalTitle": "mailbox.org",
-      "slug": "mailboxdotorg",
-      "componentName": "MailboxDotorgIcon"
+      "originalTitle": "mailbox",
+      "slug": "mailbox",
+      "componentName": "MailboxIcon"
     },
     {
       "originalTitle": "MailChimp",
@@ -8591,6 +8761,11 @@
       "originalTitle": "ManageIQ",
       "slug": "manageiq",
       "componentName": "ManageIqIcon"
+    },
+    {
+      "originalTitle": "Mangacollec",
+      "slug": "mangacollec",
+      "componentName": "MangacollecIcon"
     },
     {
       "originalTitle": "MangaUpdates",
@@ -8766,6 +8941,11 @@
       "originalTitle": "McLaren",
       "slug": "mclaren",
       "componentName": "McLarenIcon"
+    },
+    {
+      "originalTitle": "MDBList",
+      "slug": "mdblist",
+      "componentName": "MdbListIcon"
     },
     {
       "originalTitle": "mdBook",
@@ -9023,11 +9203,6 @@
       "componentName": "MindsIcon"
     },
     {
-      "originalTitle": "Minetest",
-      "slug": "minetest",
-      "componentName": "MinetestIcon"
-    },
-    {
       "originalTitle": "MinGW-w64",
       "slug": "mingww64",
       "componentName": "MinGwW64Icon"
@@ -9036,6 +9211,11 @@
       "originalTitle": "Mini",
       "slug": "mini",
       "componentName": "MiniIcon"
+    },
+    {
+      "originalTitle": "MiniMax",
+      "slug": "minimax",
+      "componentName": "MiniMaxIcon"
     },
     {
       "originalTitle": "MinIO",
@@ -9131,6 +9311,11 @@
       "originalTitle": "Model Context Protocol",
       "slug": "modelcontextprotocol",
       "componentName": "ModelContextProtocolIcon"
+    },
+    {
+      "originalTitle": "ModelScope",
+      "slug": "modelscope",
+      "componentName": "ModelScopeIcon"
     },
     {
       "originalTitle": "Modin",
@@ -9313,11 +9498,6 @@
       "componentName": "MuiIcon"
     },
     {
-      "originalTitle": "Mulesoft",
-      "slug": "mulesoft",
-      "componentName": "MulesoftIcon"
-    },
-    {
       "originalTitle": "Müller",
       "slug": "muller",
       "componentName": "MüllerIcon"
@@ -9346,11 +9526,6 @@
       "originalTitle": "Mural",
       "slug": "mural",
       "componentName": "MuralIcon"
-    },
-    {
-      "originalTitle": "MuseScore",
-      "slug": "musescore",
-      "componentName": "MuseScoreIcon"
     },
     {
       "originalTitle": "MusicBrainz",
@@ -9488,6 +9663,11 @@
       "componentName": "NbcIcon"
     },
     {
+      "originalTitle": "NDI",
+      "slug": "ndi",
+      "componentName": "NdiIcon"
+    },
+    {
       "originalTitle": "NDR",
       "slug": "ndr",
       "componentName": "NdrIcon"
@@ -9618,6 +9798,11 @@
       "componentName": "NeweggIcon"
     },
     {
+      "originalTitle": "Newgrounds",
+      "slug": "newgrounds",
+      "componentName": "NewgroundsIcon"
+    },
+    {
       "originalTitle": "NewPipe",
       "slug": "newpipe",
       "componentName": "NewPipeIcon"
@@ -9666,11 +9851,6 @@
       "originalTitle": "Nextra",
       "slug": "nextra",
       "componentName": "NextraIcon"
-    },
-    {
-      "originalTitle": "Nexus Mods",
-      "slug": "nexusmods",
-      "componentName": "NexusModsIcon"
     },
     {
       "originalTitle": "nf-core",
@@ -9738,6 +9918,11 @@
       "componentName": "NimIcon"
     },
     {
+      "originalTitle": "niri",
+      "slug": "niri",
+      "componentName": "NiriIcon"
+    },
+    {
       "originalTitle": "Nissan",
       "slug": "nissan",
       "componentName": "NissanIcon"
@@ -9766,6 +9951,11 @@
       "originalTitle": "NodeBB",
       "slug": "nodebb",
       "componentName": "NodeBbIcon"
+    },
+    {
+      "originalTitle": "NodeGui",
+      "slug": "nodegui",
+      "componentName": "NodeGuiIcon"
     },
     {
       "originalTitle": "Nodemon",
@@ -9811,6 +10001,11 @@
       "originalTitle": "Norwegian",
       "slug": "norwegian",
       "componentName": "NorwegianIcon"
+    },
+    {
+      "originalTitle": "Note",
+      "slug": "note",
+      "componentName": "NoteIcon"
     },
     {
       "originalTitle": "NotebookLM",
@@ -10023,6 +10218,11 @@
       "componentName": "OculusIcon"
     },
     {
+      "originalTitle": "Odido",
+      "slug": "odido",
+      "componentName": "OdidoIcon"
+    },
+    {
       "originalTitle": "Odin",
       "slug": "odin",
       "componentName": "OdinIcon"
@@ -10071,6 +10271,11 @@
       "originalTitle": "Omada Cloud",
       "slug": "omadacloud",
       "componentName": "OmadaCloudIcon"
+    },
+    {
+      "originalTitle": "Omarchy",
+      "slug": "omarchy",
+      "componentName": "OmarchyIcon"
     },
     {
       "originalTitle": "OnePlus",
@@ -10148,11 +10353,6 @@
       "componentName": "Open3DIcon"
     },
     {
-      "originalTitle": "OpenAI",
-      "slug": "openai",
-      "componentName": "OpenAiIcon"
-    },
-    {
       "originalTitle": "OpenAI Gym",
       "slug": "openaigym",
       "componentName": "OpenAiGymIcon"
@@ -10166,6 +10366,11 @@
       "originalTitle": "OpenBSD",
       "slug": "openbsd",
       "componentName": "OpenBsdIcon"
+    },
+    {
+      "originalTitle": "OpenCage",
+      "slug": "opencage",
+      "componentName": "OpenCageIcon"
     },
     {
       "originalTitle": "OpenCritic",
@@ -10231,6 +10436,11 @@
       "originalTitle": "OpenProject",
       "slug": "openproject",
       "componentName": "OpenProjectIcon"
+    },
+    {
+      "originalTitle": "OpenRouter",
+      "slug": "openrouter",
+      "componentName": "OpenRouterIcon"
     },
     {
       "originalTitle": "OpenSCAD",
@@ -10343,9 +10553,19 @@
       "componentName": "OptimismIcon"
     },
     {
+      "originalTitle": "Optuna",
+      "slug": "optuna",
+      "componentName": "OptunaIcon"
+    },
+    {
       "originalTitle": "Orange",
       "slug": "orange",
       "componentName": "OrangeIcon"
+    },
+    {
+      "originalTitle": "Orchard Core",
+      "slug": "orchardcore",
+      "componentName": "OrchardCoreIcon"
     },
     {
       "originalTitle": "ORCID",
@@ -10366,6 +10586,11 @@
       "originalTitle": "Origin",
       "slug": "origin",
       "componentName": "OriginIcon"
+    },
+    {
+      "originalTitle": "Ory",
+      "slug": "ory",
+      "componentName": "OryIcon"
     },
     {
       "originalTitle": "Osano",
@@ -10441,6 +10666,11 @@
       "originalTitle": "ownCloud",
       "slug": "owncloud",
       "componentName": "OwnCloudIcon"
+    },
+    {
+      "originalTitle": "Oxc",
+      "slug": "oxc",
+      "componentName": "OxcIcon"
     },
     {
       "originalTitle": "Oxygen",
@@ -10538,9 +10768,19 @@
       "componentName": "PandasIcon"
     },
     {
+      "originalTitle": "Pandoc",
+      "slug": "pandoc",
+      "componentName": "PandocIcon"
+    },
+    {
       "originalTitle": "Pandora",
       "slug": "pandora",
       "componentName": "PandoraIcon"
+    },
+    {
+      "originalTitle": "Pangolin",
+      "slug": "pangolin",
+      "componentName": "PangolinIcon"
     },
     {
       "originalTitle": "Pantheon",
@@ -10586,6 +10826,11 @@
       "originalTitle": "Parse.ly",
       "slug": "parsedotly",
       "componentName": "ParseDotlyIcon"
+    },
+    {
+      "originalTitle": "Passbolt",
+      "slug": "passbolt",
+      "componentName": "PassboltIcon"
     },
     {
       "originalTitle": "Passport",
@@ -10893,6 +11138,11 @@
       "componentName": "PingdomIcon"
     },
     {
+      "originalTitle": "Pinia",
+      "slug": "pinia",
+      "componentName": "PiniaIcon"
+    },
+    {
       "originalTitle": "pino",
       "slug": "pino",
       "componentName": "PinoIcon"
@@ -10906,6 +11156,11 @@
       "originalTitle": "Pioneer DJ",
       "slug": "pioneerdj",
       "componentName": "PioneerDjIcon"
+    },
+    {
+      "originalTitle": "Pipecat",
+      "slug": "pipecat",
+      "componentName": "PipecatIcon"
     },
     {
       "originalTitle": "Piped",
@@ -10956,6 +11211,11 @@
       "originalTitle": "pkgsrc",
       "slug": "pkgsrc",
       "componentName": "PkgsrcIcon"
+    },
+    {
+      "originalTitle": "Plane",
+      "slug": "plane",
+      "componentName": "PlaneIcon"
     },
     {
       "originalTitle": "Planet",
@@ -11088,11 +11348,6 @@
       "componentName": "PnpmIcon"
     },
     {
-      "originalTitle": "Pocket",
-      "slug": "pocket",
-      "componentName": "PocketIcon"
-    },
-    {
       "originalTitle": "Pocket Casts",
       "slug": "pocketcasts",
       "componentName": "PocketCastsIcon"
@@ -11163,6 +11418,11 @@
       "componentName": "PolyworkIcon"
     },
     {
+      "originalTitle": "Pomerium",
+      "slug": "pomerium",
+      "componentName": "PomeriumIcon"
+    },
+    {
       "originalTitle": "Pond5",
       "slug": "pond5",
       "componentName": "Pond5Icon"
@@ -11218,6 +11478,11 @@
       "componentName": "PostHogIcon"
     },
     {
+      "originalTitle": "Postiz",
+      "slug": "postiz",
+      "componentName": "PostizIcon"
+    },
+    {
       "originalTitle": "Postman",
       "slug": "postman",
       "componentName": "PostmanIcon"
@@ -11251,6 +11516,11 @@
       "originalTitle": "Prefect",
       "slug": "prefect",
       "componentName": "PrefectIcon"
+    },
+    {
+      "originalTitle": "prek",
+      "slug": "prek",
+      "componentName": "PrekIcon"
     },
     {
       "originalTitle": "PreMiD",
@@ -11356,6 +11626,11 @@
       "originalTitle": "Processing Foundation",
       "slug": "processingfoundation",
       "componentName": "ProcessingFoundationIcon"
+    },
+    {
+      "originalTitle": "ProcessOn",
+      "slug": "processon",
+      "componentName": "ProcessOnIcon"
     },
     {
       "originalTitle": "ProcessWire",
@@ -11643,6 +11918,11 @@
       "componentName": "QlikIcon"
     },
     {
+      "originalTitle": "Qlty",
+      "slug": "qlty",
+      "componentName": "QltyIcon"
+    },
+    {
       "originalTitle": "QMK",
       "slug": "qmk",
       "componentName": "QmkIcon"
@@ -11743,11 +12023,6 @@
       "componentName": "QuicktypeIcon"
     },
     {
-      "originalTitle": "Quip",
-      "slug": "quip",
-      "componentName": "QuipIcon"
-    },
-    {
       "originalTitle": "Quizlet",
       "slug": "quizlet",
       "componentName": "QuizletIcon"
@@ -11833,6 +12108,11 @@
       "componentName": "RainmeterIcon"
     },
     {
+      "originalTitle": "RainYun",
+      "slug": "rainyun",
+      "componentName": "RainYunIcon"
+    },
+    {
       "originalTitle": "Rakuten",
       "slug": "rakuten",
       "componentName": "RakutenIcon"
@@ -11871,6 +12151,11 @@
       "originalTitle": "Raspberry Pi",
       "slug": "raspberrypi",
       "componentName": "RaspberryPiIcon"
+    },
+    {
+      "originalTitle": "Ratatui",
+      "slug": "ratatui",
+      "componentName": "RatatuiIcon"
     },
     {
       "originalTitle": "Ravelry",
@@ -12078,6 +12363,16 @@
       "componentName": "RefinedGitHubIcon"
     },
     {
+      "originalTitle": "Reflex",
+      "slug": "reflex",
+      "componentName": "ReflexIcon"
+    },
+    {
+      "originalTitle": "Reka UI",
+      "slug": "rekaui",
+      "componentName": "RekaUiIcon"
+    },
+    {
       "originalTitle": "Relay",
       "slug": "relay",
       "componentName": "RelayIcon"
@@ -12181,6 +12476,11 @@
       "originalTitle": "Retool",
       "slug": "retool",
       "componentName": "RetoolIcon"
+    },
+    {
+      "originalTitle": "Retro Achievements",
+      "slug": "retroachievements",
+      "componentName": "RetroAchievementsIcon"
     },
     {
       "originalTitle": "RetroArch",
@@ -12373,6 +12673,11 @@
       "componentName": "RollbarIcon"
     },
     {
+      "originalTitle": "Rolldown",
+      "slug": "rolldown",
+      "componentName": "RolldownIcon"
+    },
+    {
       "originalTitle": "Rolls-Royce",
       "slug": "rollsroyce",
       "componentName": "RollsRoyceIcon"
@@ -12391,6 +12696,11 @@
       "originalTitle": "Roon",
       "slug": "roon",
       "componentName": "RoonIcon"
+    },
+    {
+      "originalTitle": "ROOT",
+      "slug": "root",
+      "componentName": "RootIcon"
     },
     {
       "originalTitle": "Root Me",
@@ -12603,11 +12913,6 @@
       "componentName": "SailsDotjsIcon"
     },
     {
-      "originalTitle": "Salesforce",
-      "slug": "salesforce",
-      "componentName": "SalesforceIcon"
-    },
-    {
       "originalTitle": "Salla",
       "slug": "salla",
       "componentName": "SallaIcon"
@@ -12708,6 +13013,11 @@
       "componentName": "ScalewayIcon"
     },
     {
+      "originalTitle": "Scan",
+      "slug": "scan",
+      "componentName": "ScanIcon"
+    },
+    {
       "originalTitle": "Scania",
       "slug": "scania",
       "componentName": "ScaniaIcon"
@@ -12761,11 +13071,6 @@
       "originalTitle": "Screencastify",
       "slug": "screencastify",
       "componentName": "ScreencastifyIcon"
-    },
-    {
-      "originalTitle": "Scribd",
-      "slug": "scribd",
-      "componentName": "ScribdIcon"
     },
     {
       "originalTitle": "Scrimba",
@@ -12888,11 +13193,6 @@
       "componentName": "SenchaIcon"
     },
     {
-      "originalTitle": "SendGrid",
-      "slug": "sendgrid",
-      "componentName": "SendGridIcon"
-    },
-    {
       "originalTitle": "Sennheiser",
       "slug": "sennheiser",
       "componentName": "SennheiserIcon"
@@ -12918,6 +13218,11 @@
       "componentName": "SequelizeIcon"
     },
     {
+      "originalTitle": "ServBay",
+      "slug": "servbay",
+      "componentName": "ServBayIcon"
+    },
+    {
       "originalTitle": "Server Fault",
       "slug": "serverfault",
       "componentName": "ServerFaultIcon"
@@ -12941,6 +13246,11 @@
       "originalTitle": "Setapp",
       "slug": "setapp",
       "componentName": "SetappIcon"
+    },
+    {
+      "originalTitle": "Setuptools",
+      "slug": "setuptools",
+      "componentName": "SetuptoolsIcon"
     },
     {
       "originalTitle": "SFML",
@@ -13036,11 +13346,6 @@
       "originalTitle": "Showwcase",
       "slug": "showwcase",
       "componentName": "ShowwcaseIcon"
-    },
-    {
-      "originalTitle": "Shutterstock",
-      "slug": "shutterstock",
-      "componentName": "ShutterstockIcon"
     },
     {
       "originalTitle": "Sidekiq",
@@ -13148,6 +13453,11 @@
       "componentName": "SkaffoldIcon"
     },
     {
+      "originalTitle": "Skeleton",
+      "slug": "skeleton",
+      "componentName": "SkeletonIcon"
+    },
+    {
       "originalTitle": "Sketch",
       "slug": "sketch",
       "componentName": "SketchIcon"
@@ -13181,11 +13491,6 @@
       "originalTitle": "Skypack",
       "slug": "skypack",
       "componentName": "SkypackIcon"
-    },
-    {
-      "originalTitle": "Slack",
-      "slug": "slack",
-      "componentName": "SlackIcon"
     },
     {
       "originalTitle": "Slackware",
@@ -13231,6 +13536,11 @@
       "originalTitle": "Smashing Magazine",
       "slug": "smashingmagazine",
       "componentName": "SmashingMagazineIcon"
+    },
+    {
+      "originalTitle": "Smoothcomp",
+      "slug": "smoothcomp",
+      "componentName": "SmoothcompIcon"
     },
     {
       "originalTitle": "SMRT",
@@ -13341,6 +13651,11 @@
       "originalTitle": "Solus",
       "slug": "solus",
       "componentName": "SolusIcon"
+    },
+    {
+      "originalTitle": "solved.ac",
+      "slug": "solveddotac",
+      "componentName": "SolvedDotacIcon"
     },
     {
       "originalTitle": "Sonar",
@@ -13938,6 +14253,11 @@
       "componentName": "SuiIcon"
     },
     {
+      "originalTitle": "Suitest",
+      "slug": "suitest",
+      "componentName": "SuitestIcon"
+    },
+    {
       "originalTitle": "Sumo Logic",
       "slug": "sumologic",
       "componentName": "SumoLogicIcon"
@@ -13961,6 +14281,11 @@
       "originalTitle": "Super User",
       "slug": "superuser",
       "componentName": "SuperUserIcon"
+    },
+    {
+      "originalTitle": "Supercell",
+      "slug": "supercell",
+      "componentName": "SupercellIcon"
     },
     {
       "originalTitle": "Supercrease",
@@ -14188,6 +14513,11 @@
       "componentName": "TampermonkeyIcon"
     },
     {
+      "originalTitle": "TanStack",
+      "slug": "tanstack",
+      "componentName": "TanStackIcon"
+    },
+    {
       "originalTitle": "Taobao",
       "slug": "taobao",
       "componentName": "TaobaoIcon"
@@ -14206,6 +14536,11 @@
       "originalTitle": "TAROM",
       "slug": "tarom",
       "componentName": "TaromIcon"
+    },
+    {
+      "originalTitle": "Tarteaucitron",
+      "slug": "tarteaucitron",
+      "componentName": "TarteaucitronIcon"
     },
     {
       "originalTitle": "Task",
@@ -14383,6 +14718,11 @@
       "componentName": "TextpatternIcon"
     },
     {
+      "originalTitle": "Textual",
+      "slug": "textual",
+      "componentName": "TextualIcon"
+    },
+    {
       "originalTitle": "TGA",
       "slug": "tga",
       "componentName": "TgaIcon"
@@ -14493,6 +14833,11 @@
       "componentName": "ThingiverseIcon"
     },
     {
+      "originalTitle": "Things",
+      "slug": "things",
+      "componentName": "ThingsIcon"
+    },
+    {
       "originalTitle": "ThinkPad",
       "slug": "thinkpad",
       "componentName": "ThinkPadIcon"
@@ -14561,6 +14906,11 @@
       "originalTitle": "TIDAL",
       "slug": "tidal",
       "componentName": "TidalIcon"
+    },
+    {
+      "originalTitle": "TiDB",
+      "slug": "tidb",
+      "componentName": "TiDbIcon"
     },
     {
       "originalTitle": "TiddlyWiki",
@@ -14848,6 +15198,11 @@
       "componentName": "TreyarchIcon"
     },
     {
+      "originalTitle": "Trezor",
+      "slug": "trezor",
+      "componentName": "TrezorIcon"
+    },
+    {
       "originalTitle": "Tricentis",
       "slug": "tricentis",
       "componentName": "TricentisIcon"
@@ -14963,11 +15318,6 @@
       "componentName": "TumblrIcon"
     },
     {
-      "originalTitle": "TuneIn",
-      "slug": "tunein",
-      "componentName": "TuneInIcon"
-    },
-    {
       "originalTitle": "Turbo",
       "slug": "turbo",
       "componentName": "TurboIcon"
@@ -15016,11 +15366,6 @@
       "originalTitle": "Twenty",
       "slug": "twenty",
       "componentName": "TwentyIcon"
-    },
-    {
-      "originalTitle": "Twilio",
-      "slug": "twilio",
-      "componentName": "TwilioIcon"
     },
     {
       "originalTitle": "Twinkly",
@@ -15256,6 +15601,11 @@
       "originalTitle": "Unsplash",
       "slug": "unsplash",
       "componentName": "UnsplashIcon"
+    },
+    {
+      "originalTitle": "Unstop",
+      "slug": "unstop",
+      "componentName": "UnstopIcon"
     },
     {
       "originalTitle": "Untappd",
@@ -15583,6 +15933,11 @@
       "componentName": "VisaIcon"
     },
     {
+      "originalTitle": "Visual Paradigm",
+      "slug": "visualparadigm",
+      "componentName": "VisualParadigmIcon"
+    },
+    {
       "originalTitle": "visx",
       "slug": "visx",
       "componentName": "VisxIcon"
@@ -15728,6 +16083,11 @@
       "componentName": "VuetifyIcon"
     },
     {
+      "originalTitle": "VueUse",
+      "slug": "vueuse",
+      "componentName": "VueUseIcon"
+    },
+    {
       "originalTitle": "Vulkan",
       "slug": "vulkan",
       "componentName": "VulkanIcon"
@@ -15788,11 +16148,6 @@
       "componentName": "WalletConnectIcon"
     },
     {
-      "originalTitle": "Walmart",
-      "slug": "walmart",
-      "componentName": "WalmartIcon"
-    },
-    {
       "originalTitle": "Wantedly",
       "slug": "wantedly",
       "componentName": "WantedlyIcon"
@@ -15801,11 +16156,6 @@
       "originalTitle": "Wappalyzer",
       "slug": "wappalyzer",
       "componentName": "WappalyzerIcon"
-    },
-    {
-      "originalTitle": "Warner Bros.",
-      "slug": "warnerbros",
-      "componentName": "WarnerbrosIcon"
     },
     {
       "originalTitle": "Warp",
@@ -15861,6 +16211,11 @@
       "originalTitle": "Weasyl",
       "slug": "weasyl",
       "componentName": "WeasylIcon"
+    },
+    {
+      "originalTitle": "Web Awesome",
+      "slug": "webawesome",
+      "componentName": "WebAwesomeIcon"
     },
     {
       "originalTitle": "WEB.DE",
@@ -15988,9 +16343,9 @@
       "componentName": "WemoIcon"
     },
     {
-      "originalTitle": "Western Digital",
-      "slug": "westerndigital",
-      "componentName": "WesternDigitalIcon"
+      "originalTitle": "WeRead",
+      "slug": "weread",
+      "componentName": "WeReadIcon"
     },
     {
       "originalTitle": "Western Union",
@@ -16388,6 +16743,11 @@
       "componentName": "YetiIcon"
     },
     {
+      "originalTitle": "Yew",
+      "slug": "yew",
+      "componentName": "YewIcon"
+    },
+    {
       "originalTitle": "Yii",
       "slug": "yii",
       "componentName": "YiiIcon"
@@ -16636,6 +16996,11 @@
       "originalTitle": "Zoiper",
       "slug": "zoiper",
       "componentName": "ZoiperIcon"
+    },
+    {
+      "originalTitle": "Zola",
+      "slug": "zola",
+      "componentName": "ZolaIcon"
     },
     {
       "originalTitle": "Zomato",
